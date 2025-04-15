@@ -144,85 +144,166 @@
                     <div class="card-header text-center text-white h6" style="background-color: #03244c;">
                         PERATUS LIPUTAN WIFI MENGIKUT KAMPUS
                     </div>
-                    <div class="card-body">
-                        <canvas id="liputanChart" style="max-height: 400px;"></canvas>
+                    <div class="card-body" style="height: 300px; padding: 0px;">
+                        <canvas id="liputanChart" style="width: 100%; height: 100%;"></canvas>
                     </div>
                 </div>
             </div>
             <div class="container">
-                <div class="row gy-4">
+                <div class="card">
+                    <div class="card-header text-center text-white h6" style="background-color: #03244c;">
+                        PERATUS LIPUTAN WIFI MENGIKUT BANGUNAN ATAU KAWASAN
+                    </div>
+                </div>
+                <div class="row gy-4 mt-1">
+
+                    <!-- SAMARAHAN CAMPUS -->
                     <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="100">
-                        <div class="pricing-item">
-                            <h3>Free Plan</h3>
-                            <p class="description">Ullam mollitia quasi nobis soluta in voluptatum et sint palora dex
-                                strater</p>
-                            <h4><sup>$</sup>0<span> / month</span></h4>
-                            <a href="#" class="cta-btn">Start a free trial</a>
-                            <p class="text-center small">No credit card required</p>
-                            <ul>
-                                <li><i class="bi bi-check"></i> <span>Quam adipiscing vitae proin</span></li>
-                                <li><i class="bi bi-check"></i> <span>Nec feugiat nisl pretium</span></li>
-                                <li><i class="bi bi-check"></i> <span>Nulla at volutpat diam uteera</span></li>
-                                <li class="na"><i class="bi bi-x"></i> <span>Pharetra massa massa ultricies</span>
-                                </li>
-                                <li class="na"><i class="bi bi-x"></i> <span>Massa ultricies mi quis
-                                        hendrerit</span></li>
-                                <li class="na"><i class="bi bi-x"></i> <span>Voluptate id voluptas qui sed aperiam
-                                        rerum</span></li>
-                                <li class="na"><i class="bi bi-x"></i> <span>Iure nihil dolores recusandae odit
-                                        voluptatibus</span></li>
-                            </ul>
-                        </div>
-                    </div><!-- End Pricing Item -->
+                        <div class="pricing-item shadow-sm p-4 bg-light rounded">
+                            <h6 class="text-center fw-bold mb-3 text-primary">Samarahan</h6>
+                            <div class="d-flex flex-column">
+                                <div class="progress-area mb-2">
+                                    <div class="d-flex justify-content-between">
+                                        <span>Akademik</span> <span>26%</span>
+                                    </div>
+                                    <div class="progress">
+                                        <div class="progress-bar bg-success" role="progressbar" style="width: 26%"
+                                            aria-valuenow="26" aria-valuemin="0" aria-valuemax="100"></div>
+                                    </div>
+                                </div>
 
+                                <div class="progress-area mb-2">
+                                    <div class="d-flex justify-content-between">
+                                        <span>Kolej Kediaman Pelajar</span> <span>100%</span>
+                                    </div>
+                                    <div class="progress">
+                                        <div class="progress-bar bg-info" role="progressbar" style="width: 100%"
+                                            aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                                    </div>
+                                </div>
+
+                                <div class="progress-area mb-2">
+                                    <div class="d-flex justify-content-between">
+                                        <span>Pentadbiran</span> <span>65%</span>
+                                    </div>
+                                    <div class="progress">
+                                        <div class="progress-bar bg-warning" role="progressbar" style="width: 65%"
+                                            aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
+                                    </div>
+                                </div>
+
+                                <div class="progress-area mb-2">
+                                    <div class="d-flex justify-content-between">
+                                        <span>Tumpuan dan Gunasama</span> <span>68%</span>
+                                    </div>
+                                    <div class="progress">
+                                        <div class="progress-bar bg-danger" role="progressbar" style="width: 68%"
+                                            aria-valuenow="68" aria-valuemin="0" aria-valuemax="100"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- SAMARAHAN 2 CAMPUS -->
                     <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="200">
-                        <div class="pricing-item featured">
-                            <p class="popular">Popular</p>
-                            <h3>Business Plan</h3>
-                            <p class="description">Ullam mollitia quasi nobis soluta in voluptatum et sint palora dex
-                                strater</p>
-                            <h4><sup>$</sup>29<span> / month</span></h4>
-                            <a href="#" class="cta-btn">Start a free trial</a>
-                            <p class="text-center small">No credit card required</p>
-                            <ul>
-                                <li><i class="bi bi-check"></i> <span>Quam adipiscing vitae proin</span></li>
-                                <li><i class="bi bi-check"></i> <span>Nec feugiat nisl pretium</span></li>
-                                <li><i class="bi bi-check"></i> <span>Nulla at volutpat diam uteera</span></li>
-                                <li><i class="bi bi-check"></i> <span>Pharetra massa massa ultricies</span></li>
-                                <li><i class="bi bi-check"></i> <span>Massa ultricies mi quis hendrerit</span></li>
-                                <li><i class="bi bi-check"></i> <span>Voluptate id voluptas qui sed aperiam
-                                        rerum</span></li>
-                                <li class="na"><i class="bi bi-x"></i> <span>Iure nihil dolores recusandae odit
-                                        voluptatibus</span></li>
-                            </ul>
-                        </div>
-                    </div><!-- End Pricing Item -->
+                        <div class="pricing-item shadow-sm p-4 bg-light rounded">
+                            <h6 class="text-center fw-bold mb-3 text-primary">Samarahan 2</h6>
+                            <div class="d-flex flex-column">
+                                <div class="progress-area mb-2">
+                                    <div class="d-flex justify-content-between">
+                                        <span>Akademik</span> <span>18%</span>
+                                    </div>
+                                    <div class="progress">
+                                        <div class="progress-bar bg-success" role="progressbar" style="width: 18%"
+                                            aria-valuenow="18" aria-valuemin="0" aria-valuemax="100"></div>
+                                    </div>
+                                </div>
 
-                    <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="300">
-                        <div class="pricing-item">
-                            <h3>Developer Plan</h3>
-                            <p class="description">Ullam mollitia quasi nobis soluta in voluptatum et sint palora dex
-                                strater</p>
-                            <h4><sup>$</sup>49<span> / month</span></h4>
-                            <a href="#" class="cta-btn">Start a free trial</a>
-                            <p class="text-center small">No credit card required</p>
-                            <ul>
-                                <li><i class="bi bi-check"></i> <span>Quam adipiscing vitae proin</span></li>
-                                <li><i class="bi bi-check"></i> <span>Nec feugiat nisl pretium</span></li>
-                                <li><i class="bi bi-check"></i> <span>Nulla at volutpat diam uteera</span></li>
-                                <li><i class="bi bi-check"></i> <span>Pharetra massa massa ultricies</span></li>
-                                <li><i class="bi bi-check"></i> <span>Massa ultricies mi quis hendrerit</span></li>
-                                <li><i class="bi bi-check"></i> <span>Voluptate id voluptas qui sed aperiam
-                                        rerum</span></li>
-                                <li><i class="bi bi-check"></i> <span>Iure nihil dolores recusandae odit
-                                        voluptatibus</span></li>
-                            </ul>
+                                <div class="progress-area mb-2">
+                                    <div class="d-flex justify-content-between">
+                                        <span>Kolej Kediaman Pelajar</span> <span>49%</span>
+                                    </div>
+                                    <div class="progress">
+                                        <div class="progress-bar bg-info" role="progressbar" style="width: 49%"
+                                            aria-valuenow="49" aria-valuemin="0" aria-valuemax="100"></div>
+                                    </div>
+                                </div>
+
+                                <div class="progress-area mb-2">
+                                    <div class="d-flex justify-content-between">
+                                        <span>Pentadbiran</span> <span>59%</span>
+                                    </div>
+                                    <div class="progress">
+                                        <div class="progress-bar bg-warning" role="progressbar" style="width: 59%"
+                                            aria-valuenow="59" aria-valuemin="0" aria-valuemax="100"></div>
+                                    </div>
+                                </div>
+
+                                <div class="progress-area mb-2">
+                                    <div class="d-flex justify-content-between">
+                                        <span>Tumpuan dan Gunasama</span> <span>58%</span>
+                                    </div>
+                                    <div class="progress">
+                                        <div class="progress-bar bg-danger" role="progressbar" style="width: 58%"
+                                            aria-valuenow="58" aria-valuemin="0" aria-valuemax="100"></div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                    </div><!-- End Pricing Item -->
+                    </div>
+
+                    <!-- MUKAH CAMPUS -->
+                    <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="300">
+                        <div class="pricing-item shadow-sm p-4 bg-light rounded">
+                            <h6 class="text-center fw-bold mb-3 text-primary">Mukah</h6>
+                            <div class="d-flex flex-column">
+                                <div class="progress-area mb-2">
+                                    <div class="d-flex justify-content-between">
+                                        <span>Akademik</span> <span>100%</span>
+                                    </div>
+                                    <div class="progress">
+                                        <div class="progress-bar bg-success" role="progressbar" style="width: 100%"
+                                            aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                                    </div>
+                                </div>
+
+                                <div class="progress-area mb-2">
+                                    <div class="d-flex justify-content-between">
+                                        <span>Kolej Kediaman Pelajar</span> <span>100%</span>
+                                    </div>
+                                    <div class="progress">
+                                        <div class="progress-bar bg-info" role="progressbar" style="width: 100%"
+                                            aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                                    </div>
+                                </div>
+
+                                <div class="progress-area mb-2">
+                                    <div class="d-flex justify-content-between">
+                                        <span>Pentadbiran</span> <span>100%</span>
+                                    </div>
+                                    <div class="progress">
+                                        <div class="progress-bar bg-warning" role="progressbar" style="width: 100%"
+                                            aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                                    </div>
+                                </div>
+
+                                <div class="progress-area mb-2">
+                                    <div class="d-flex justify-content-between">
+                                        <span>Tumpuan dan Gunasama</span> <span>100%</span>
+                                    </div>
+                                    <div class="progress">
+                                        <div class="progress-bar bg-danger" role="progressbar" style="width: 100%"
+                                            aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
                 </div>
-
             </div>
+
 
         </section><!-- /status Section -->
 
@@ -1085,11 +1166,10 @@
     </script>
     <script>
         document.addEventListener("DOMContentLoaded", function() {
-            var ctx = document.getElementById('liputanChart').getContext('2d');
+            const ctx = document.getElementById('liputanChart').getContext('2d');
 
-            // Hardcoded data
-            var labels = ["Kampus Samarahan", "Kampus Samarahan 2", "Kampus Mukah"];
-            var data = [62.1, 41.9, 100];
+            const labels = ["Samarahan", "Samarahan 2", "Mukah"];
+            const data = [62.1, 41.9, 100];
 
             new Chart(ctx, {
                 type: 'bar',
@@ -1098,26 +1178,60 @@
                     datasets: [{
                         label: 'Peratus Liputan WiFi',
                         data: data,
-                        backgroundColor: 'rgba(54, 162, 235, 0.6)',
-                        borderColor: 'rgba(54, 162, 235, 1)',
-                        borderWidth: 1
+                        backgroundColor: [
+                            '#00b894', // green
+                            '#0984e3', // blue
+                            '#fdcb6e' // yellow
+                        ],
+                        borderRadius: 15,
+                        barPercentage: 0.5
                     }]
                 },
                 options: {
                     responsive: true,
                     maintainAspectRatio: false,
+                    layout: {
+                        padding: {
+                            top: 30,
+                            bottom: 30,
+                            left: 15,
+                            right: 15
+                        }
+                    },
                     scales: {
                         y: {
                             beginAtZero: true,
+                            max: 100,
+                            ticks: {
+                                font: {
+                                    size: 12,
+                                    weight: '500'
+                                },
+                                callback: function(value) {
+                                    return value + "%";
+                                }
+                            },
                             title: {
                                 display: true,
-                                text: 'Jumlah Peratus Liputan'
+                                text: 'Liputan (%)',
+                                font: {
+                                    size: 14,
+                                    weight: 'bold'
+                                }
+                            },
+                            grid: {
+                                color: '#e0e0e0'
                             }
                         },
                         x: {
+                            ticks: {
+                                font: {
+                                    size: 13,
+                                    weight: 'bold'
+                                }
+                            },
                             title: {
-                                display: true,
-                                text: 'Kampus'
+                                display: false
                             }
                         }
                     },
@@ -1132,21 +1246,25 @@
                                 }
                             }
                         }
+                    },
+                    animation: {
+                        duration: 1000,
+                        easing: 'easeOutBounce'
                     }
                 },
                 plugins: [{
                     afterDraw: function(chart) {
-                        var ctx = chart.ctx;
+                        const ctx = chart.ctx;
                         ctx.textAlign = 'center';
                         ctx.textBaseline = 'bottom';
-                        ctx.fillStyle = '#000';
-                        ctx.font = 'bold 12px Arial';
+                        ctx.fillStyle = '#333';
+                        ctx.font = 'bold 14px Poppins';
 
                         chart.data.datasets.forEach((dataset, i) => {
-                            var meta = chart.getDatasetMeta(i);
+                            const meta = chart.getDatasetMeta(i);
                             meta.data.forEach((bar, index) => {
-                                var label = dataset.data[index] + "%";
-                                ctx.fillText(label, bar.x, bar.y - 5);
+                                const label = dataset.data[index] + "%";
+                                ctx.fillText(label, bar.x, bar.y - 10);
                             });
                         });
                     }
