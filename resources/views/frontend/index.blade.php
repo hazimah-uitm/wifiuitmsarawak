@@ -318,7 +318,7 @@
                         <a href="https://wifi.uitm.edu.my/wifi/coverage.html" target="_blank"
                             class="btn btn-primary w-100 d-flex align-items-center justify-content-start px-4 py-2 shadow-sm transition-all"
                             style="height: 42px;">
-                            <span class="text-white fw-bold">Lihat Peta Liputan</span>
+                            <span class="text-white fw-bold">Peta Liputan</span>
                         </a>
                     </div>
 
