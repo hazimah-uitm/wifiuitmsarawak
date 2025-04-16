@@ -25,6 +25,7 @@
     <link href="{{ asset('public/assets/vendor/aos/aos.css') }}" rel="stylesheet">
     <link href="{{ asset('public/assets/vendor/glightbox/css/glightbox.min.css') }}" rel="stylesheet">
     <link href="{{ asset('public/assets/vendor/swiper/swiper-bundle.min.css') }}" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
 
     <!-- Chart.js CDN -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
@@ -139,20 +140,20 @@
                 <div><span>Status Semasa Liputan</span> <span class="description-title">WiFi</span></div>
             </div><!-- End Section Title -->
             <!-- WiFi Coverage Chart -->
-            <div class="container mb-4" data-aos="fade-up">
+            <div class="container my-4" data-aos="fade-up">
                 <div class="card">
                     <div class="card-header text-center text-white h6" style="background-color: #03244c;">
-                        PERATUS LIPUTAN WIFI MENGIKUT KAMPUS
+                        LIPUTAN WIFI MENGIKUT KAMPUS
                     </div>
-                    <div class="card-body" style="height: 300px; padding: 0px;">
-                        <canvas id="liputanChart" style="width: 100%; height: 100%;"></canvas>
-                    </div>
+                </div>
+                <div style="height: 260px;">
+                    <canvas id="liputanChart" style="width: 100%; height: 100%;"></canvas>
                 </div>
             </div>
             <div class="container">
                 <div class="card">
                     <div class="card-header text-center text-white h6" style="background-color: #03244c;">
-                        PERATUS LIPUTAN WIFI MENGIKUT BANGUNAN ATAU KAWASAN
+                        LIPUTAN WIFI MENGIKUT KAWASAN LIPUTAN
                     </div>
                 </div>
                 <div class="row gy-4 mt-1">
@@ -1168,7 +1169,7 @@
         document.addEventListener("DOMContentLoaded", function() {
             const ctx = document.getElementById('liputanChart').getContext('2d');
 
-            const labels = ["Samarahan", "Samarahan 2", "Mukah"];
+            const labels = ["SAMARAHAN", "SAMARAHAN 2", "MUKAH"];
             const data = [62.1, 41.9, 100];
 
             new Chart(ctx, {
@@ -1176,61 +1177,39 @@
                 data: {
                     labels: labels,
                     datasets: [{
-                        label: 'Peratus Liputan WiFi',
                         data: data,
-                        backgroundColor: [
-                            '#00b894', // green
-                            '#0984e3', // blue
-                            '#fdcb6e' // yellow
-                        ],
-                        borderRadius: 15,
-                        barPercentage: 0.5
+                        backgroundColor: ['#00b894', '#0984e3', '#f39c12'],
+                        borderRadius: 10,
+                        barPercentage: 0.6
                     }]
                 },
                 options: {
+                    indexAxis: 'y',
                     responsive: true,
                     maintainAspectRatio: false,
                     layout: {
-                        padding: {
-                            top: 30,
-                            bottom: 30,
-                            left: 15,
-                            right: 15
-                        }
+                        padding: 10
                     },
                     scales: {
-                        y: {
+                        x: {
                             beginAtZero: true,
                             max: 100,
                             ticks: {
+                                callback: value => value + '%',
                                 font: {
-                                    size: 12,
-                                    weight: '500'
-                                },
-                                callback: function(value) {
-                                    return value + "%";
-                                }
-                            },
-                            title: {
-                                display: true,
-                                text: 'Liputan (%)',
-                                font: {
-                                    size: 14,
-                                    weight: 'bold'
+                                    family: 'Inter',
+                                    size: 12
                                 }
                             },
                             grid: {
-                                color: '#e0e0e0'
+                                color: '#f1f2f6'
                             }
                         },
-                        x: {
+                        y: {
                             ticks: {
-                                font: {
-                                    size: 13,
-                                    weight: 'bold'
-                                }
+                                display: false
                             },
-                            title: {
+                            grid: {
                                 display: false
                             }
                         }
@@ -1248,23 +1227,40 @@
                         }
                     },
                     animation: {
-                        duration: 1000,
-                        easing: 'easeOutBounce'
+                        duration: 800,
+                        easing: 'easeOutCubic'
                     }
                 },
                 plugins: [{
                     afterDraw: function(chart) {
                         const ctx = chart.ctx;
-                        ctx.textAlign = 'center';
-                        ctx.textBaseline = 'bottom';
-                        ctx.fillStyle = '#333';
-                        ctx.font = 'bold 14px Poppins';
+                        ctx.font = '600 13px Inter';
+                        ctx.fillStyle = '#ffffff'; // text color inside bar
+                        ctx.textAlign = 'left';
 
                         chart.data.datasets.forEach((dataset, i) => {
                             const meta = chart.getDatasetMeta(i);
                             meta.data.forEach((bar, index) => {
-                                const label = dataset.data[index] + "%";
-                                ctx.fillText(label, bar.x, bar.y - 10);
+                                const label =
+                                    `${labels[index]} (${dataset.data[index]}%)`;
+                                const textPadding = 5;
+                                const textX = bar.base +
+                                textPadding; // this ensures it's *inside* the bar
+                                const textY = bar.y + bar.height / 18 + 3;
+
+                                // optional: adjust text color based on bar width for contrast
+                                if ((bar.width) < ctx.measureText(label).width +
+                                    20) {
+                                    ctx.fillStyle =
+                                    '#000'; // switch to black if text doesn't fit
+                                    ctx.textAlign = 'right';
+                                    ctx.fillText(label, bar.x + bar.width - 5,
+                                        textY);
+                                } else {
+                                    ctx.fillStyle = '#fff';
+                                    ctx.textAlign = 'left';
+                                    ctx.fillText(label, textX, textY);
+                                }
                             });
                         });
                     }
@@ -1272,6 +1268,7 @@
             });
         });
     </script>
+
 </body>
 
 </html>
