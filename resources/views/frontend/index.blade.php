@@ -104,12 +104,12 @@
                     <div class="col-lg-6  d-flex flex-column justify-content-center" data-aos="fade-in">
                         <h1>Informasi Perkhidmatan <span>WiFi</span> UiTM Cawangan Sarawak</h1>
                         <p>Laman utama bagi semakan, panduan dan bantuan rangkaian kampus</p>
-                        {{-- <div class="d-flex">
-                            <a href="#status" class="btn-get-started">Get Started</a>
-                            <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8"
+                        <div class="d-flex">
+                            <a href="#lokasi" class="btn-get-started">Lokasi Liputan WiFi</a>
+                            {{-- <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8"
                                 class="glightbox btn-watch-video d-flex align-items-center"><i
-                                    class="bi bi-play-circle"></i><span>Watch Video</span></a>
-                        </div> --}}
+                                    class="bi bi-play-circle"></i><span>Watch Video</span></a> --}}
+                        </div>
                     </div>
 
                 </div>
@@ -134,13 +134,14 @@
 
         </section><!-- /utama Section -->
 
-        <!-- Status Section -->
-        @include('frontend.status')
-        <!-- /Status Section -->
-
+    
         <!-- Lokasi Section -->
         @include('frontend.lokasi')
         <!-- /Lokasi Section -->
+
+        <!-- Status Section -->
+        @include('frontend.status')
+        <!-- /Status Section -->
 
         <!-- Stats Section -->
         {{-- <section id="stats" class="stats section">

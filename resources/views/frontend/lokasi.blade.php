@@ -1,4 +1,4 @@
-<section id="lokasi" class="pricing section light-background">
+<section id="lokasi" class="pricing section">
     <div class="container section-title" data-aos="fade-up">
         <h2>Lokasi</h2>
         <div><span>Lokasi dan Peta Liputan</span> <span class="description-title">WiFi</span></div>

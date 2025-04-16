@@ -1,4 +1,4 @@
-        <section id="status" class="pricing section">
+        <section id="status" class="pricing section light-background">
             <!-- Section Title -->
             <div class="container section-title" data-aos="fade-up">
                 <h2>Status</h2>
