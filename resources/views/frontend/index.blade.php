@@ -57,8 +57,8 @@
             <nav id="navmenu" class="navmenu">
                 <ul>
                     <li><a href="#utama" class="active">Utama</a></li>
-                    <li><a href="#status">Status</a></li>
                     <li><a href="#lokasi">Lokasi</a></li>
+                    <li><a href="#status">Status</a></li>
                     <li><a href="#pelaninduk">Pelan Induk</a></li>
                     <li><a href="#projek">Projek</a></li>
                     <li><a href="#tatacara">Tatacara</a></li>
