@@ -303,109 +303,101 @@
 
                 </div>
             </div>
-
-
         </section><!-- /status Section -->
 
-        <!-- lokasi Section -->
-        <section id="lokasi" class="features section">
+        <!-- Lokasi Section -->
+        <section id="lokasi" class="pricing section light-background">
+            <div class="container section-title" data-aos="fade-up">
+                <h2>Lokasi</h2>
+                <div><span>Lokasi dan Peta Liputan</span> <span class="description-title">WiFi</span></div>
+            </div>
+            <div class="container" data-aos="fade-up">
+                <div class="row align-items-center mb-4 g-2">
+                    <!-- Map Button -->
+                    <div class="col-12 col-md-3">
+                        <a href="https://wifi.uitm.edu.my/wifi/coverage.html" target="_blank"
+                            class="btn btn-primary w-100 d-flex align-items-center justify-content-start px-4 py-2 shadow-sm transition-all"
+                            style="height: 42px;">
+                            <span class="text-white fw-bold">Lihat Peta Liputan</span>
+                        </a>
+                    </div>
 
-            <div class="container">
-
-                <div class="row gy-4">
-
-                    <div class="col-lg-3 col-md-4" data-aos="fade-up" data-aos-delay="100">
-                        <div class="features-item">
-                            <i class="bi bi-eye" style="color: #ffbb2c;"></i>
-                            <h3><a href="" class="stretched-link">Lorem Ipsum</a></h3>
+                    <!-- Search Input -->
+                    <div class="col-12 col-md-9">
+                        <div class="position-relative">
+                            <input type="text" class="form-control rounded-2 px-3 py-2" id="searchInput"
+                                   placeholder="Cari lokasi..." style="height: 42px;">
+                            <!-- Clear Icon without round background -->
+                            <span id="clearIcon" class="position-absolute end-0 top-50 translate-middle-y cursor-pointer" style="display: none; background: none; padding: 0; border-radius: 0;">
+                                <i class="bi bi-x" style="font-size: 25px; color: #9e0707; padding:10px"></i>
+                            </span>
                         </div>
-                    </div><!-- End Feature Item -->
-
-                    <div class="col-lg-3 col-md-4" data-aos="fade-up" data-aos-delay="200">
-                        <div class="features-item">
-                            <i class="bi bi-infinity" style="color: #5578ff;"></i>
-                            <h3><a href="" class="stretched-link">Dolor Sitema</a></h3>
-                        </div>
-                    </div><!-- End Feature Item -->
-
-                    <div class="col-lg-3 col-md-4" data-aos="fade-up" data-aos-delay="300">
-                        <div class="features-item">
-                            <i class="bi bi-mortarboard" style="color: #e80368;"></i>
-                            <h3><a href="" class="stretched-link">Sed perspiciatis</a></h3>
-                        </div>
-                    </div><!-- End Feature Item -->
-
-                    <div class="col-lg-3 col-md-4" data-aos="fade-up" data-aos-delay="400">
-                        <div class="features-item">
-                            <i class="bi bi-nut" style="color: #e361ff;"></i>
-                            <h3><a href="" class="stretched-link">Magni Dolores</a></h3>
-                        </div>
-                    </div><!-- End Feature Item -->
-
-                    <div class="col-lg-3 col-md-4" data-aos="fade-up" data-aos-delay="500">
-                        <div class="features-item">
-                            <i class="bi bi-shuffle" style="color: #47aeff;"></i>
-                            <h3><a href="" class="stretched-link">Nemo Enim</a></h3>
-                        </div>
-                    </div><!-- End Feature Item -->
-
-                    <div class="col-lg-3 col-md-4" data-aos="fade-up" data-aos-delay="600">
-                        <div class="features-item">
-                            <i class="bi bi-star" style="color: #ffa76e;"></i>
-                            <h3><a href="" class="stretched-link">Eiusmod Tempor</a></h3>
-                        </div>
-                    </div><!-- End Feature Item -->
-
-                    <div class="col-lg-3 col-md-4" data-aos="fade-up" data-aos-delay="700">
-                        <div class="features-item">
-                            <i class="bi bi-x-diamond" style="color: #11dbcf;"></i>
-                            <h3><a href="" class="stretched-link">Midela Teren</a></h3>
-                        </div>
-                    </div><!-- End Feature Item -->
-
-                    <div class="col-lg-3 col-md-4" data-aos="fade-up" data-aos-delay="800">
-                        <div class="features-item">
-                            <i class="bi bi-camera-video" style="color: #4233ff;"></i>
-                            <h3><a href="" class="stretched-link">Pira Neve</a></h3>
-                        </div>
-                    </div><!-- End Feature Item -->
-
-                    <div class="col-lg-3 col-md-4" data-aos="fade-up" data-aos-delay="900">
-                        <div class="features-item">
-                            <i class="bi bi-command" style="color: #b2904f;"></i>
-                            <h3><a href="" class="stretched-link">Dirada Pack</a></h3>
-                        </div>
-                    </div><!-- End Feature Item -->
-
-                    <div class="col-lg-3 col-md-4" data-aos="fade-up" data-aos-delay="1000">
-                        <div class="features-item">
-                            <i class="bi bi-dribbble" style="color: #b20969;"></i>
-                            <h3><a href="" class="stretched-link">Moton Ideal</a></h3>
-                        </div>
-                    </div><!-- End Feature Item -->
-
-                    <div class="col-lg-3 col-md-4" data-aos="fade-up" data-aos-delay="1100">
-                        <div class="features-item">
-                            <i class="bi bi-activity" style="color: #ff5828;"></i>
-                            <h3><a href="" class="stretched-link">Verdo Park</a></h3>
-                        </div>
-                    </div><!-- End Feature Item -->
-
-                    <div class="col-lg-3 col-md-4" data-aos="fade-up" data-aos-delay="1200">
-                        <div class="features-item">
-                            <i class="bi bi-brightness-high" style="color: #29cc61;"></i>
-                            <h3><a href="" class="stretched-link">Flavor Nivelanda</a></h3>
-                        </div>
-                    </div><!-- End Feature Item -->
-
+                    </div>                                                                                            
                 </div>
 
-            </div>
+                <!-- Locations Row -->
+                <div class="row g-4">
+                    <!-- Samarahan -->
+                    <div class="col-md-4">
+                        <div class="card h-100 shadow-sm">
+                            <div class="card-header text-white text-uppercase" style="background-color: #00b894">
+                                Samarahan
+                            </div>
+                            <div class="card-body p-0">
+                                <div class="list-group list-group-flush" style="max-height: 300px; overflow-y: auto;"
+                                    id="samarahanList">
+                                    <div class="list-group-item">Dewan Makan Mulu Ground Floor 1</div>
+                                    <div class="list-group-item">Dewan Makan Mulu Ground Floor 2</div>
+                                    <div class="list-group-item">Ruai Pengawa</div>
+                                    <!-- continue the rest... -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
-        </section><!-- /Features Section -->
+                    <!-- Samarahan 2 -->
+                    <div class="col-md-4">
+                        <div class="card h-100 shadow-sm">
+                            <div class="card-header text-white text-uppercase" style="background-color: #0984e3">
+                                Samarahan 2
+                            </div>
+                            <div class="card-body p-0">
+                                <div class="list-group list-group-flush" style="max-height: 300px; overflow-y: auto;"
+                                    id="samarahan2List">
+                                    <div class="list-group-item">Block A</div>
+                                    <div class="list-group-item">Block B</div>
+                                    <div class="list-group-item">Makmal Komputer</div>
+                                    <!-- Add more here -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Mukah -->
+                    <div class="col-md-4">
+                        <div class="card h-100 shadow-sm">
+                            <div class="card-header text-white text-uppercase" style="background-color: #f39c12">
+                                Mukah
+                            </div>
+                            <div class="card-body p-0">
+                                <div class="list-group list-group-flush" style="max-height: 300px; overflow-y: auto;"
+                                    id="mukahList">
+                                    <div class="list-group-item">Dewan Kuliah 1</div>
+                                    <div class="list-group-item">Dewan Kuliah 2</div>
+                                    <div class="list-group-item">Makmal Komputer</div>
+                                    <!-- Add more here -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- /Lokasi Section -->
+
 
         <!-- Stats Section -->
-        <section id="stats" class="stats section light-background">
+        <section id="stats" class="stats section">
 
             <div class="container" data-aos="fade-up" data-aos-delay="100">
 
@@ -458,12 +450,12 @@
 
             <!-- Section Title -->
             <div class="container section-title" data-aos="fade-up">
-                <h2>Details</h2>
-                <div><span>Check Our</span> <span class="description-title">Details</span></div>
+                <h2>Pelan Induk</h2>
+                <div><span>Pelan Induk Naik Taraf Sistem Rangkaian</span> <span class="description-title">WiFi</span>
+                </div>
             </div><!-- End Section Title -->
 
             <div class="container">
-
                 <div class="row gy-4 align-items-center features-item">
                     <div class="col-md-5 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="100">
                         <img src="{{ asset('public/assets/img/details-1.png') }}" class="img-fluid" alt="">
@@ -1244,14 +1236,14 @@
                                     `${labels[index]} (${dataset.data[index]}%)`;
                                 const textPadding = 5;
                                 const textX = bar.base +
-                                textPadding; // this ensures it's *inside* the bar
+                                    textPadding; // this ensures it's *inside* the bar
                                 const textY = bar.y + bar.height / 18 + 3;
 
                                 // optional: adjust text color based on bar width for contrast
                                 if ((bar.width) < ctx.measureText(label).width +
                                     20) {
                                     ctx.fillStyle =
-                                    '#000'; // switch to black if text doesn't fit
+                                        '#000'; // switch to black if text doesn't fit
                                     ctx.textAlign = 'right';
                                     ctx.fillText(label, bar.x + bar.width - 5,
                                         textY);
@@ -1267,6 +1259,47 @@
             });
         });
     </script>
+    <script>
+        document.getElementById('searchInput').addEventListener('keyup', function() {
+            const filter = this.value.toLowerCase();
+            const lists = document.querySelectorAll('.list-group');
+            const clearIcon = document.getElementById('clearIcon');
+
+            // Show the clear icon when there's text
+            if (this.value) {
+                clearIcon.style.display = 'block';
+            } else {
+                clearIcon.style.display = 'none';
+            }
+
+            // Filter the list items
+            lists.forEach(list => {
+                const items = list.querySelectorAll('.list-group-item');
+                items.forEach(item => {
+                    item.style.display = item.textContent.toLowerCase().includes(filter) ? '' :
+                        'none';
+                });
+            });
+        });
+
+        // Clear search input and show all items when the "X" is clicked
+        document.getElementById('clearIcon').addEventListener('click', function() {
+            const searchInput = document.getElementById('searchInput');
+            searchInput.value = ''; // Clear the input field
+
+            const lists = document.querySelectorAll('.list-group');
+            lists.forEach(list => {
+                const items = list.querySelectorAll('.list-group-item');
+                items.forEach(item => {
+                    item.style.display = ''; // Show all items
+                });
+            });
+
+            // Hide the clear icon again
+            this.style.display = 'none';
+        });
+    </script>
+
 
 </body>
 
