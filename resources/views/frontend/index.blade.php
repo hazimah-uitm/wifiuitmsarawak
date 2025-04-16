@@ -140,28 +140,27 @@
                 <div><span>Status Semasa Liputan</span> <span class="description-title">WiFi</span></div>
             </div><!-- End Section Title -->
             <!-- WiFi Coverage Chart -->
-            <div class="container my-4" data-aos="fade-up">
+            <div class="container" data-aos="fade-up">
                 <div class="card">
                     <div class="card-header text-center text-white h6" style="background-color: #03244c;">
                         LIPUTAN WIFI MENGIKUT KAMPUS
                     </div>
                 </div>
-                <div style="height: 260px;">
+                <div style="height: 220px;">
                     <canvas id="liputanChart" style="width: 100%; height: 100%;"></canvas>
                 </div>
             </div>
             <div class="container">
-                <div class="card">
+                <div class="card mt-3 mb-2">
                     <div class="card-header text-center text-white h6" style="background-color: #03244c;">
                         LIPUTAN WIFI MENGIKUT KAWASAN LIPUTAN
                     </div>
                 </div>
-                <div class="row gy-4 mt-1">
-
+                <div class="row gy-4">
                     <!-- SAMARAHAN CAMPUS -->
                     <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="100">
                         <div class="pricing-item shadow-sm p-4 bg-light rounded">
-                            <h6 class="text-center fw-bold mb-3 text-primary">Samarahan</h6>
+                            <h6 class="text-center fw-bold mb-3 text-primary text-uppercase">Samarahan</h6>
                             <div class="d-flex flex-column">
                                 <div class="progress-area mb-2">
                                     <div class="d-flex justify-content-between">
@@ -209,7 +208,7 @@
                     <!-- SAMARAHAN 2 CAMPUS -->
                     <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="200">
                         <div class="pricing-item shadow-sm p-4 bg-light rounded">
-                            <h6 class="text-center fw-bold mb-3 text-primary">Samarahan 2</h6>
+                            <h6 class="text-center fw-bold mb-3 text-primary text-uppercase">Samarahan 2</h6>
                             <div class="d-flex flex-column">
                                 <div class="progress-area mb-2">
                                     <div class="d-flex justify-content-between">
@@ -257,7 +256,7 @@
                     <!-- MUKAH CAMPUS -->
                     <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="300">
                         <div class="pricing-item shadow-sm p-4 bg-light rounded">
-                            <h6 class="text-center fw-bold mb-3 text-primary">Mukah</h6>
+                            <h6 class="text-center fw-bold mb-3 text-primary text-uppercase">Mukah</h6>
                             <div class="d-flex flex-column">
                                 <div class="progress-area mb-2">
                                     <div class="d-flex justify-content-between">
