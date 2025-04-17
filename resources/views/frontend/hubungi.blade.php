@@ -19,7 +19,7 @@
               UiTM Cawangan Sarawak Kampus Samarahan,<br>
               94300 Kota Samarahan, Sarawak
             </p>
-            <p><i class="bi bi-telephone mt-1"></i> 082-677 357</p>
+            <p><i class="bi bi-telephone mt-1"></i> 082-677357</p>
           </div>
         </div>
   
@@ -43,6 +43,7 @@
             <h4><i class="bi bi-geo-alt"></i>Mukah</h4>
             <p>
               Unit Infostruktur,<br>
+              Aras 2, Bangunan Setiaraja 1,<br>
               UiTM Cawangan Sarawak Kampus Mukah,<br>
               96400 Mukah, Sarawak
             </p>
