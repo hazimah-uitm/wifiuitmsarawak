@@ -14,7 +14,7 @@
             </div>
             <div class="col-lg-5 order-1 order-lg-2 text-center">
                 <img src="{{ asset('public/assets/img/faq.png') }}" class="img-fluid" alt="Aduan ICT"
-                    style="max-width: 250px;" data-aos="zoom-in" data-aos-delay="100">
+                    style="max-width: 250px;" data-aos="zoom-in" data-aos-delay="200">
             </div>
         </div>
     </div>
