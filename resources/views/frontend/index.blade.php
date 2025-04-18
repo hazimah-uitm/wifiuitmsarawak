@@ -61,7 +61,7 @@
                     <li><a href="#status">Status</a></li>
                     <li><a href="#pelaninduk">Pelan Induk</a></li>
                     <li><a href="#projek">Projek</a></li>
-                    <li><a href="#tatacara">Tatacara</a></li>
+                    <li><a href="#panduan">Panduan</a></li>
                     {{-- <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
               <li><a href="#">Dropdown 1</a></li>
@@ -102,13 +102,17 @@
                     </div>
 
                     <div class="col-lg-6  d-flex flex-column justify-content-center" data-aos="fade-in">
-                        <h1>Informasi Perkhidmatan <span>WiFi</span> UiTM Cawangan Sarawak</h1>
+                        <h1>Informasi panduan <span>WiFi</span> UiTM Cawangan Sarawak</h1>
                         <p>Laman utama bagi semakan, panduan dan bantuan rangkaian kampus</p>
-                        <div class="d-flex">
+                        <div class="d-flex gap-2">
                             <a href="#lokasi" class="btn-get-started">Lokasi Liputan WiFi</a>
                             {{-- <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8"
                                 class="glightbox btn-watch-video d-flex align-items-center"><i
                                     class="bi bi-play-circle"></i><span>Watch Video</span></a> --}}
+                            <a href="#panduan" class="btn-get-started"
+                                style="background-color:#4db8ff;">
+                                Panduan Perkhidmatan WiFi
+                            </a>
                         </div>
                     </div>
 
@@ -134,7 +138,7 @@
 
         </section><!-- /utama Section -->
 
-    
+
         <!-- Lokasi Section -->
         @include('frontend.lokasi')
         <!-- /Lokasi Section -->
@@ -201,9 +205,9 @@
         @include('frontend.projek')
         <!-- /Projek Section -->
 
-        <!-- tatacara Section -->
-        @include('frontend.tatacara')
-        <!-- /tatacara Section -->
+        <!-- panduan Section -->
+        @include('frontend.panduan')
+        <!-- /panduan Section -->
 
         <!-- Contact Section -->
         @include('frontend.hubungi')

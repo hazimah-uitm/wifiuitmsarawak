@@ -1,9 +1,9 @@
-<section id="tatacara" class="details section">
+<section id="panduan" class="details section">
 
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
-        <h2>Tatacara</h2>
-        <div><span>Tatacara Sambungan ke</span> <span class="description-title">WiFi</span>
+        <h2>Panduan</h2>
+        <div><span>Panduan Perkhidmatan</span> <span class="description-title">WiFi</span>
         </div>
     </div><!-- End Section Title -->
 

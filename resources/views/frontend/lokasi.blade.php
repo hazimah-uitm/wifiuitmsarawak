@@ -8,11 +8,22 @@
             <!-- Map Button -->
             <div class="col-12 col-md-3">
                 <a href="https://wifi.uitm.edu.my/wifi/coverage.html" target="_blank"
-                    class="btn btn-primary w-100 d-flex align-items-center justify-content-start px-4 py-2 shadow-sm transition-all"
-                    style="height: 42px;">
-                    <span class="text-white fw-bold">PETA LIPUTAN WIFI</span>
+                    class="btn w-100 d-flex align-items-center justify-content-start gap-3 px-4 py-2 shadow transition-all"
+                    style="
+                      background: linear-gradient(135deg, #1b3f84, #3b74c4);
+                      color: #fff;
+                      border-radius: 12px;
+                      height: 50px;
+                      font-weight: 700;
+                      letter-spacing: 0.5px;
+                      text-transform: uppercase;
+                      box-shadow: 0 4px 12px rgba(3, 36, 76, 0.4);
+                   ">
+                    <i class="bi bi-map-fill fs-5" style="color: #ffffffcc;"></i>
+                    <span>KLIK UNTUK LIHAT PETA WIFI</span>
                 </a>
             </div>
+
 
             <!-- Search Input -->
             <div class="col-12 col-md-9">
@@ -33,7 +44,7 @@
             <!-- Samarahan -->
             <div class="col-md-4">
                 <div class="card h-100 shadow-sm">
-                    <div class="card-header text-white text-uppercase" style="background-color: #03244c">
+                    <div class="card-header text-white text-uppercase text-center" style="background-color: #03244c">
                         Samarahan
                     </div>
                     <div class="card-body p-0">
@@ -161,7 +172,7 @@
             <!-- Samarahan 2 -->
             <div class="col-md-4">
                 <div class="card h-100 shadow-sm">
-                    <div class="card-header text-white text-uppercase" style="background-color: #03244c">
+                    <div class="card-header text-white text-uppercase text-center" style="background-color: #03244c">
                         Samarahan 2
                     </div>
                     <div class="card-body p-0">
@@ -384,7 +395,7 @@
             <!-- Mukah -->
             <div class="col-md-4">
                 <div class="card h-100 shadow-sm">
-                    <div class="card-header text-white text-uppercase" style="background-color: #03244c">
+                    <div class="card-header text-white text-uppercase text-center" style="background-color: #03244c">
                         Mukah
                     </div>
                     <div class="card-body p-0">

@@ -29,7 +29,7 @@
                             <div class="d-flex flex-column">
                                 <div class="progress-area mb-2">
                                     <div class="d-flex justify-content-between">
-                                        <span>Akademik</span> <span>26%</span>
+                                        <span>Bangunan Akademik</span> <span>26%</span>
                                     </div>
                                     <div class="progress">
                                         <div class="progress-bar bg-success" role="progressbar" style="width: 26%"
@@ -49,7 +49,7 @@
 
                                 <div class="progress-area mb-2">
                                     <div class="d-flex justify-content-between">
-                                        <span>Pentadbiran</span> <span>65%</span>
+                                        <span>Blok Pentadbiran</span> <span>65%</span>
                                     </div>
                                     <div class="progress">
                                         <div class="progress-bar bg-warning" role="progressbar" style="width: 65%"
@@ -59,7 +59,7 @@
 
                                 <div class="progress-area mb-2">
                                     <div class="d-flex justify-content-between">
-                                        <span>Tumpuan dan Gunasama</span> <span>68%</span>
+                                        <span>Bangunan Tumpuan & Gunasama</span> <span>68%</span>
                                     </div>
                                     <div class="progress">
                                         <div class="progress-bar bg-danger" role="progressbar" style="width: 68%"
@@ -77,7 +77,7 @@
                             <div class="d-flex flex-column">
                                 <div class="progress-area mb-2">
                                     <div class="d-flex justify-content-between">
-                                        <span>Akademik</span> <span>18%</span>
+                                        <span>Bangunan Akademik</span> <span>18%</span>
                                     </div>
                                     <div class="progress">
                                         <div class="progress-bar bg-success" role="progressbar" style="width: 18%"
@@ -97,7 +97,7 @@
 
                                 <div class="progress-area mb-2">
                                     <div class="d-flex justify-content-between">
-                                        <span>Pentadbiran</span> <span>59%</span>
+                                        <span>Blok Pentadbiran</span> <span>59%</span>
                                     </div>
                                     <div class="progress">
                                         <div class="progress-bar bg-warning" role="progressbar" style="width: 59%"
@@ -107,7 +107,7 @@
 
                                 <div class="progress-area mb-2">
                                     <div class="d-flex justify-content-between">
-                                        <span>Tumpuan dan Gunasama</span> <span>58%</span>
+                                        <span>Bangunan Tumpuan & Gunasama</span> <span>58%</span>
                                     </div>
                                     <div class="progress">
                                         <div class="progress-bar bg-danger" role="progressbar" style="width: 58%"
@@ -125,7 +125,7 @@
                             <div class="d-flex flex-column">
                                 <div class="progress-area mb-2">
                                     <div class="d-flex justify-content-between">
-                                        <span>Akademik</span> <span>100%</span>
+                                        <span>Bangunan Akademik</span> <span>100%</span>
                                     </div>
                                     <div class="progress">
                                         <div class="progress-bar bg-success" role="progressbar" style="width: 100%"
@@ -145,7 +145,7 @@
 
                                 <div class="progress-area mb-2">
                                     <div class="d-flex justify-content-between">
-                                        <span>Pentadbiran</span> <span>100%</span>
+                                        <span>Blok Pentadbiran</span> <span>100%</span>
                                     </div>
                                     <div class="progress">
                                         <div class="progress-bar bg-warning" role="progressbar" style="width: 100%"
@@ -155,7 +155,7 @@
 
                                 <div class="progress-area mb-2">
                                     <div class="d-flex justify-content-between">
-                                        <span>Tumpuan dan Gunasama</span> <span>100%</span>
+                                        <span>Bangunan Tumpuan & Gunasama</span> <span>100%</span>
                                     </div>
                                     <div class="progress">
                                         <div class="progress-bar bg-danger" role="progressbar" style="width: 100%"
