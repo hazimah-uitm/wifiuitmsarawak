@@ -8,7 +8,7 @@
             <!-- Map Button -->
             <div class="col-12 col-md-3">
                 <a href="https://wifi.uitm.edu.my/wifi/coverage.html" target="_blank"
-                    class="btn w-100 d-flex align-items-center justify-content-start gap-3 px-4 py-2 shadow transition-all"
+                    class="btn w-100 d-flex align-items-center justify-content-center gap-3 px-4 py-2 shadow transition-all"
                     style="
                       background: linear-gradient(135deg, #1b3f84, #3b74c4);
                       color: #fff;
@@ -22,8 +22,7 @@
                     <i class="bi bi-map-fill fs-5" style="color: #ffffffcc;"></i>
                     <span>LIHAT PETA WIFI</span>
                 </a>
-            </div>
-
+            </div>            
 
             <!-- Search Input -->
             <div class="col-12 col-md-9">

@@ -27,6 +27,9 @@
     <link href="{{ asset('public/assets/vendor/swiper/swiper-bundle.min.css') }}" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
 
+    <!-- Bootstrap CSS (choose 3 or 4) -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.6.0/css/bootstrap.min.css">
+
     <!-- Chart.js CDN -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels"></script>
@@ -109,8 +112,7 @@
                             {{-- <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8"
                                 class="glightbox btn-watch-video d-flex align-items-center"><i
                                     class="bi bi-play-circle"></i><span>Watch Video</span></a> --}}
-                            <a href="#panduan" class="btn-get-started"
-                                style="background-color:#4db8ff;">
+                            <a href="#panduan" class="btn-get-started" style="background-color:#4db8ff;">
                                 Panduan Perkhidmatan WiFi
                             </a>
                         </div>
@@ -307,6 +309,9 @@
 
     <!-- Main JS File -->
     <script src="{{ asset('public/assets/js/main.js') }}"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.6.0/js/bootstrap.bundle.min.js"></script>
+
     <script>
         // Get the current year
         var currentYear = new Date().getFullYear();
@@ -458,6 +463,16 @@
             this.style.display = 'none';
         });
     </script>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const tooltipElements = document.querySelectorAll('.tooltipStatus');
+        tooltipElements.forEach(function (element) {
+            new bootstrap.Tooltip(element, {
+                customClass: 'tooltip-multiline'
+            });
+        });
+    });
+</script>
 
 
 </body>
