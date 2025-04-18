@@ -333,7 +333,7 @@
                     labels: labels,
                     datasets: [{
                         data: data,
-                        backgroundColor: ['#56f1b7', '#7abaf7', '#f9cc66'],
+                        backgroundColor: ['#00e1a3', '#4fa6f5', '#f7b233'],
                         borderRadius: 10,
                         barPercentage: 0.6
                     }]
