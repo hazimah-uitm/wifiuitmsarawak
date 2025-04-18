@@ -20,7 +20,7 @@
                       box-shadow: 0 4px 12px rgba(3, 36, 76, 0.4);
                    ">
                     <i class="bi bi-map-fill fs-5" style="color: #ffffffcc;"></i>
-                    <span>KLIK UNTUK LIHAT PETA WIFI</span>
+                    <span>LIHAT PETA WIFI</span>
                 </a>
             </div>
 
