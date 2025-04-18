@@ -325,7 +325,7 @@
             const ctx = document.getElementById('liputanChart').getContext('2d');
 
             const labels = ["SAMARAHAN", "SAMARAHAN 2", "MUKAH"];
-            const data = [62.1, 41.9, 100];
+            const data = [63, 41.9, 100];
 
             new Chart(ctx, {
                 type: 'bar',
@@ -333,7 +333,7 @@
                     labels: labels,
                     datasets: [{
                         data: data,
-                        backgroundColor: ['#00b894', '#0984e3', '#f39c12'],
+                        backgroundColor: ['#56f1b7', '#7abaf7', '#f9cc66'],
                         borderRadius: 10,
                         barPercentage: 0.6
                     }]
@@ -404,15 +404,14 @@
                                 const textY = bar.y + bar.height / 18 + 3;
 
                                 // optional: adjust text color based on bar width for contrast
-                                if ((bar.width) < ctx.measureText(label).width +
-                                    20) {
+                                if ((bar.width) < ctx.measureText(label).width - 50) {
                                     ctx.fillStyle =
                                         '#000'; // switch to black if text doesn't fit
                                     ctx.textAlign = 'right';
                                     ctx.fillText(label, bar.x + bar.width - 5,
                                         textY);
                                 } else {
-                                    ctx.fillStyle = '#fff';
+                                    ctx.fillStyle = '#000';
                                     ctx.textAlign = 'left';
                                     ctx.fillText(label, textX, textY);
                                 }
