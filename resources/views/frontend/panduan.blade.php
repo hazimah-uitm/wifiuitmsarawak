@@ -8,7 +8,7 @@
     </div><!-- End Section Title -->
 
     <div class="container" data-aos="fade-up">
-      <div class="card mt-3 mb-4">
+      <div class="card mb-4">
         <div class="card-header text-center text-white h6" style="background-color: #03244c;">
           PERKHIDMATAN WIFI
         </div>
@@ -24,10 +24,10 @@
               <ul class="small ps-3">
                 <li>Guna ID webmail & kata laluan WiFi.</li>
                 <li>Untuk log masuk kali pertama, sila aktifkan ID WiFi  
-                  <br><button class="btn btn-primary p-2" onclick="window.open('https://wifi.uitm.edu.my/activation', '_blank')">Aktifkan Akaun</button>
+                  <br><button class="btn btn-primary btn-sm p-2" onclick="window.open('https://wifi.uitm.edu.my/activation', '_blank')">Aktifkan Akaun</button>
                 </li>
                 <li>Lupa kata laluan? Reset di:
-                  <br><button class="btn btn-danger p-2" onclick="window.open('https://wifi.uitm.edu.my/resetpassword', '_blank')">Reset Password</button>
+                  <br><button class="btn btn-info btn-sm p-2" onclick="window.open('https://wifi.uitm.edu.my/resetpassword', '_blank')">Reset Password</button>
                 </li>
               </ul>
             </div>
@@ -61,7 +61,7 @@
                   <br>03-55442213 / 55211774 / 55442173
                 </li>
                 <li>Emel:
-                  <button class="btn btn-warning p-2 mt-2" onclick="window.location.href='mailto:wifi@uitm.edu.my'">wifi@uitm.edu.my</button>
+                  <button class="btn btn-warning btn-sm p-2 mt-2" onclick="window.location.href='mailto:wifi@uitm.edu.my'">wifi@uitm.edu.my</button>
                 </li>
               </ul>
             </div>
@@ -79,12 +79,23 @@
                 <li>Staf UiTM: Guna email @uitm.edu.my & kata laluan WiFi.</li>
                 <li>Pelajar UiTM: Guna ID @isiswa.uitm.edu.my & kata laluan portal.</li>
                 <li>Senarai ahli: 
-                  <button class="btn btn-danger p-2 mt-2" onclick="window.open('https://mon.eduroam.my/participants', '_blank')">eduroam.my</button>
+                  <button class="btn btn-danger btn-sm p-2 mt-2" onclick="window.open('https://mon.eduroam.my/participants', '_blank')">eduroam.my</button>
                 </li>
               </ul>
             </div>
           </div>
         </div>
+      </div>
+    </div>
+
+    <div class="container" data-aos="fade-up">
+      <div class="card mt-4 mb-4">
+        <div class="card-header text-center text-white h6" style="background-color: #03244c;">
+          TATACARA SAMBUNGAN WIFI
+        </div>
+      </div>
+    
+      <div class="row row-cols-1 row-cols-md-4 g-3 text-center">
       </div>
     </div>
     
