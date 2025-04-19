@@ -184,6 +184,12 @@ h6 {
   text-align: left; 
 }
 
+.signal-badge {
+  display: inline-block;
+  width: 90px; /* Tukar ikut kesesuaian */
+  text-align: center;
+}
+
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/

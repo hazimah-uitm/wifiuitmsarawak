@@ -22,7 +22,7 @@
                     <i class="bi bi-map-fill fs-5" style="color: #ffffffcc;"></i>
                     <span>LIHAT PETA WIFI</span>
                 </a>
-            </div>            
+            </div>
 
             <!-- Search Input -->
             <div class="col-12 col-md-9">
@@ -49,9 +49,21 @@
                     <div class="card-body p-0">
                         <div class="list-group list-group-flush" style="max-height: 250px; overflow-y: auto;"
                             id="samarahanList">
-                            <div class="list-group-item">Ruai Pengawa</div>
-                            <div class="list-group-item">Masjid Al-Qurawiyyin</div>
-                            <div class="list-group-item">Bilik Pemandu</div>
+                            <div class="list-group-item">Ruai Pengawa
+                                <span class="badge bg-success float-end signal-badge">
+                                    <i class="fa fa-wifi"></i> Kuat
+                                </span>
+                            </div>
+                            <div class="list-group-item">Masjid Al-Qurawiyyin
+                                <span class="badge bg-warning text-dark float-end signal-badge">
+                                    <i class="fa fa-wifi"></i> Sederhana
+                                </span>
+                            </div>
+                            <div class="list-group-item">Bilik Pemandu
+                                <span class="badge bg-danger float-end signal-badge">
+                                    <i class="fa fa-wifi"></i> Lemah
+                                </span>
+                            </div>
                             <div class="list-group-item">Block Pentadbiran</div>
                             <div class="list-group-item list-group-item-primary">Dewan Makan Mulu</div>
                             <div class="list-group-item">Ground Floor 1</div>
