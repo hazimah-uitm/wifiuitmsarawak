@@ -1,4 +1,4 @@
-<section id="hubungi" class="faq section py-3">
+<section id="aduan" class="faq section py-3">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-7 d-flex flex-column justify-content-center order-2 order-lg-1">
