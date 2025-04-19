@@ -51,17 +51,17 @@
                             id="samarahanList">
                             <div class="list-group-item">Ruai Pengawa
                                 <span class="badge bg-success float-end signal-badge">
-                                    <i class="fa fa-wifi"></i> Kuat
+                                    <i class="fa fa-wifi"></i> High
                                 </span>
                             </div>
                             <div class="list-group-item">Masjid Al-Qurawiyyin
                                 <span class="badge bg-warning text-dark float-end signal-badge">
-                                    <i class="fa fa-wifi"></i> Sederhana
+                                    <i class="fa fa-wifi"></i> Medium
                                 </span>
                             </div>
                             <div class="list-group-item">Bilik Pemandu
                                 <span class="badge bg-danger float-end signal-badge">
-                                    <i class="fa fa-wifi"></i> Lemah
+                                    <i class="fa fa-wifi"></i> Low
                                 </span>
                             </div>
                             <div class="list-group-item">Block Pentadbiran</div>
