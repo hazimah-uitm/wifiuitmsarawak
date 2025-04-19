@@ -105,8 +105,8 @@
                     </div>
 
                     <div class="col-lg-6  d-flex flex-column justify-content-center" data-aos="fade-in">
-                        <h1>Informasi panduan <span>WiFi</span> UiTM Cawangan Sarawak</h1>
-                        <p>Laman utama bagi semakan, panduan dan bantuan rangkaian kampus</p>
+                        <h1>Informasi Perkhidmatan <span>WiFi</span> UiTM Cawangan Sarawak</h1>
+                        <p>Laman utama bagi panduan dan bantuan rangkaian kampus</p>
                         <div class="d-flex gap-2">
                             <a href="#lokasi" class="btn-get-started">Lokasi Liputan WiFi</a>
                             {{-- <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8"

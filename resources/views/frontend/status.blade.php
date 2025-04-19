@@ -51,7 +51,8 @@
 ▪ Bilik TV
 ▪ Gazebo
 ▪ Rumah (Liputan bagi semua bilik)
-▪ Dorm (Koridor)">Kolej Kediaman Pelajar</span> <span>100%</span>
+▪ Dorm (Koridor)">Kolej
+                                            Kediaman Pelajar</span> <span>100%</span>
                                     </div>
                                     <div class="progress">
                                         <div class="progress-bar bg-info" role="progressbar" style="width: 100%"
@@ -64,7 +65,8 @@
                                         <span class="tooltipStatus" data-bs-toggle="tooltip" data-bs-placement="right"
                                             title="▪ Pejabat
 ▪ Lobby/Foyer
-▪ Bilik Mesyuarat">Blok Pentadbiran</span> <span>65%</span>
+▪ Bilik Mesyuarat">Blok Pentadbiran</span>
+                                        <span>65%</span>
                                     </div>
                                     <div class="progress">
                                         <div class="progress-bar bg-warning" role="progressbar" style="width: 65%"
@@ -82,7 +84,8 @@
 ▪ Stadium/Astaka
 ▪ Ruang Legar
 ▪ PTAR
-▪ Pos Polis Bantuan">Bangunan Tumpuan & Gunasama</span> <span>68%</span>
+▪ Pos Polis Bantuan">Bangunan
+                                            Tumpuan & Gunasama</span> <span>68%</span>
                                     </div>
                                     <div class="progress">
                                         <div class="progress-bar bg-danger" role="progressbar" style="width: 68%"
@@ -126,7 +129,8 @@
 ▪ Bilik TV
 ▪ Gazebo
 ▪ Rumah (Liputan bagi semua bilik)
-▪ Dorm (Koridor)">Kolej Kediaman Pelajar</span> <span>49%</span>
+▪ Dorm (Koridor)">Kolej
+                                            Kediaman Pelajar</span> <span>49%</span>
                                     </div>
                                     <div class="progress">
                                         <div class="progress-bar bg-info" role="progressbar" style="width: 49%"
@@ -136,10 +140,12 @@
 
                                 <div class="progress-area mb-2">
                                     <div class="d-flex justify-content-between">
-                                        <span class="tooltipStatus" data-bs-toggle="tooltip" data-bs-placement="right"
+                                        <span class="tooltipStatus" data-bs-toggle="tooltip"
+                                            data-bs-placement="right"
                                             title="▪ Pejabat
 ▪ Lobby/Foyer
-▪ Bilik Mesyuarat">Blok Pentadbiran</span> <span>59%</span>
+▪ Bilik Mesyuarat">Blok Pentadbiran</span>
+                                        <span>59%</span>
                                     </div>
                                     <div class="progress">
                                         <div class="progress-bar bg-warning" role="progressbar" style="width: 59%"
@@ -149,7 +155,8 @@
 
                                 <div class="progress-area mb-2">
                                     <div class="d-flex justify-content-between">
-                                        <span class="tooltipStatus" data-bs-toggle="tooltip" data-bs-placement="right"
+                                        <span class="tooltipStatus" data-bs-toggle="tooltip"
+                                            data-bs-placement="right"
                                             title="▪ Cafetaria
 ▪ Surau
 ▪ Sudut Pelajar/Perbincangan
@@ -157,7 +164,8 @@
 ▪ Stadium/Astaka
 ▪ Ruang Legar
 ▪ PTAR
-▪ Pos Polis Bantuan">Bangunan Tumpuan & Gunasama</span> <span>58%</span>
+▪ Pos Polis Bantuan">Bangunan
+                                            Tumpuan & Gunasama</span> <span>58%</span>
                                     </div>
                                     <div class="progress">
                                         <div class="progress-bar bg-danger" role="progressbar" style="width: 58%"
@@ -175,7 +183,8 @@
                             <div class="d-flex flex-column">
                                 <div class="progress-area mb-2">
                                     <div class="d-flex justify-content-between">
-                                        <span class="tooltipStatus" data-bs-toggle="tooltip" data-bs-placement="right"
+                                        <span class="tooltipStatus" data-bs-toggle="tooltip"
+                                            data-bs-placement="right"
                                             title="▪ Bilik Kuliah
 ▪ Dewan Kuliah
 ▪ Makmal
@@ -191,13 +200,15 @@
 
                                 <div class="progress-area mb-2">
                                     <div class="d-flex justify-content-between">
-                                        <span class="tooltipStatus" data-bs-toggle="tooltip" data-bs-placement="right"
+                                        <span class="tooltipStatus" data-bs-toggle="tooltip"
+                                            data-bs-placement="right"
                                             title="▪ Bilik Bacaan/Study
 ▪ Makmal Kolej
 ▪ Bilik TV
 ▪ Gazebo
 ▪ Rumah (Liputan bagi semua bilik)
-▪ Dorm (Koridor)">Kolej Kediaman Pelajar</span> <span>100%</span>
+▪ Dorm (Koridor)">Kolej
+                                            Kediaman Pelajar</span> <span>100%</span>
                                     </div>
                                     <div class="progress">
                                         <div class="progress-bar bg-info" role="progressbar" style="width: 100%"
@@ -207,10 +218,12 @@
 
                                 <div class="progress-area mb-2">
                                     <div class="d-flex justify-content-between">
-                                        <span class="tooltipStatus" data-bs-toggle="tooltip" data-bs-placement="right"
+                                        <span class="tooltipStatus" data-bs-toggle="tooltip"
+                                            data-bs-placement="right"
                                             title="▪ Pejabat
 ▪ Lobby/Foyer
-▪ Bilik Mesyuarat">Blok Pentadbiran</span> <span>100%</span>
+▪ Bilik Mesyuarat">Blok Pentadbiran</span>
+                                        <span>100%</span>
                                     </div>
                                     <div class="progress">
                                         <div class="progress-bar bg-warning" role="progressbar" style="width: 100%"
@@ -220,7 +233,8 @@
 
                                 <div class="progress-area mb-2">
                                     <div class="d-flex justify-content-between">
-                                        <span class="tooltipStatus" data-bs-toggle="tooltip" data-bs-placement="right"
+                                        <span class="tooltipStatus" data-bs-toggle="tooltip"
+                                            data-bs-placement="right"
                                             title="▪ Cafetaria
 ▪ Surau
 ▪ Sudut Pelajar/Perbincangan
@@ -228,7 +242,8 @@
 ▪ Stadium/Astaka
 ▪ Ruang Legar
 ▪ PTAR
-▪ Pos Polis Bantuan">Bangunan Tumpuan & Gunasama</span> <span>100%</span>
+▪ Pos Polis Bantuan">Bangunan
+                                            Tumpuan & Gunasama</span> <span>100%</span>
                                     </div>
                                     <div class="progress">
                                         <div class="progress-bar bg-danger" role="progressbar" style="width: 100%"
