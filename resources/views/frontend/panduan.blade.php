@@ -125,12 +125,9 @@
                         <p class="text-center"><strong>Kemudahan WiFi di UiTM Cawangan Sarawak bergantung kepada:</strong></p>
                         <ul class="list-unstyled ps-3">
                             <li class="mb-2"><i class="bi bi-check-circle-fill text-success me-2"></i> Kualiti peranti yang digunakan</li>
-                            <li class="mb-2"><i class="bi bi-check-circle-fill text-success me-2"></i> Jarak pengguna dengan AP (radius 50 meter)</li>
-                            <li class="mb-2"><i class="bi bi-check-circle-fill text-success me-2"></i> Keadaan sekitar seperti halangan (dinding) dan jumlah pengguna yang menggunakan pada masa sama di lokasi yang mempunyai Wireless Access Point</li>
-                            <li class="mb-2"><i class="bi bi-check-circle-fill text-success me-2"></i> Kekuatan isyarat WiFi yang dihantar hanya sejauh kira-kira 50 meter</li>
+                            <li class="mb-2"><i class="bi bi-check-circle-fill text-success me-2"></i> Jarak efektif antara pengguna dan AP (radius 50 meter tanpa halangan)</li>
+                            <li class="mb-2"><i class="bi bi-check-circle-fill text-success me-2"></i> Sekiranya kedudukan AP dan pengguna terlalu jauh atau mempunyai halangan fizikal (dinding / pintu) serta terlalu ramai pengguna serentak di lokasi yang sama mempunyai Wireless Access Point (AP), pengguna akan menghadapi kesukaran untuk menyambung ke WiFi  atau sambungan Wifi yang tidak stabil.</li>
                         </ul>
-                        <p>Oleh itu, jika anda berada terlalu jauh dari Titik Akses Tanpa Wayar (AP), anda mungkin menghadapi kesukaran untuk menyambung ke WiFi.</p>
-    
                         <div class="d-grid gap-2">
                             <a href="#lokasi" class="btn btn-primary btn-sm">Lihat Lokasi Liputan WiFi</a>
                             <a href="https://units.uitm.edu.my/index.html" target="blank"class="btn btn-info btn-sm">Lapor Aduan WiFi</a>
