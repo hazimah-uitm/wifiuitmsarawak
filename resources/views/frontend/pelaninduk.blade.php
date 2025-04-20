@@ -18,8 +18,8 @@
                 <div id="collapseSamarahan" class="accordion-collapse collapse show" aria-labelledby="headingSamarahan"
                     data-bs-parent="#pelanIndukAccordion">
                     <div class="accordion-body text-center">
-                        <img src="{{ asset('public/assets/img/pelan_induk_s1.png') }}" class="img-fluid"
-                            style="max-width: 100%; cursor: pointer;" alt="Pelan Induk Samarahan"
+                        <img src="{{ asset('public/assets/img/pelan_induk_s1.png') }}" class="img-fluid rounded shadow"
+                            style="max-width: 80%; cursor: pointer;" alt="Pelan Induk Samarahan"
                             onclick="showImageModal(this)">
                     </div>
                 </div>
@@ -36,8 +36,8 @@
                 <div id="collapseSamarahan2" class="accordion-collapse collapse" aria-labelledby="headingSamarahan2"
                     data-bs-parent="#pelanIndukAccordion">
                     <div class="accordion-body text-center">
-                        <img src="{{ asset('public/assets/img/pelan_induk_s2.png') }}" class="img-fluid"
-                            style="max-width: 100%; cursor: pointer;" alt="Pelan Induk Samarahan"
+                        <img src="{{ asset('public/assets/img/pelan_induk_s2.png') }}" class="img-fluid rounded shadow"
+                            style="max-width: 80%; cursor: pointer;" alt="Pelan Induk Samarahan"
                             onclick="showImageModal(this)">
                     </div>
                 </div>
@@ -54,8 +54,8 @@
                 <div id="collapseMukah" class="accordion-collapse collapse" aria-labelledby="headingMukah"
                     data-bs-parent="#pelanIndukAccordion">
                     <div class="accordion-body text-center">
-                        <img src="{{ asset('public/assets/img/pelan_induk_mkh.png') }}" class="img-fluid"
-                            style="max-width: 100%; cursor: pointer;" alt="Pelan Induk Samarahan"
+                        <img src="{{ asset('public/assets/img/pelan_induk_mkh.png') }}" class="img-fluid rounded shadow"
+                            style="max-width: 80%; cursor: pointer;" alt="Pelan Induk Samarahan"
                             onclick="showImageModal(this)">
                     </div>
                 </div>

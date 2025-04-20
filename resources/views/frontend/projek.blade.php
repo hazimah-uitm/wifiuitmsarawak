@@ -8,12 +8,56 @@
     </div><!-- End Section Title -->
 
     <div class="container">
-      <div class="row gy-4 align-items-center features-item">
-        <div class="col-md-5 order-1 order-md-2 d-flex align-items-center" data-aos="zoom-out">
-          <img src="{{ asset('public/assets/img/details-4.png') }}" class="img-fluid" alt="">
-        </div>
-        </div>
+      <div class="accordion" id="projekAccordian">
+
+          <!-- Samarahan -->
+          <div class="accordion-item">
+              <h2 class="accordion-header" id="headingSamarahanProjek">
+                  <button class="accordion-button fw-bold" type="button" data-bs-toggle="collapse"
+                      data-bs-target="#collapseSamarahanProjek" aria-expanded="true" aria-controls="collapseSamarahanProjek">
+                      SAMARAHAN
+                  </button>
+              </h2>
+              <div id="collapseSamarahanProjek" class="accordion-collapse collapse show" aria-labelledby="headingSamarahanProjek"
+                  data-bs-parent="#projekAccordian">
+                  <div class="accordion-body text-center">
+                      
+                  </div>
+              </div>
+          </div>
+
+          <!-- Samarahan 2 -->
+          <div class="accordion-item">
+              <h2 class="accordion-header" id="headingSamarahan2Projek">
+                  <button class="accordion-button fw-bold collapsed" type="button" data-bs-toggle="collapse"
+                      data-bs-target="#collapseSamarahan2Projek" aria-expanded="false" aria-controls="collapseSamarahan2Projek">
+                      SAMARAHAN 2
+                  </button>
+              </h2>
+              <div id="collapseSamarahan2Projek" class="accordion-collapse collapse" aria-labelledby="headingSamarahan2Projek"
+                  data-bs-parent="#projekAccordian">
+                  <div class="accordion-body text-center">
+                      
+                  </div>
+              </div>
+          </div>
+
+          <!-- Mukah -->
+          <div class="accordion-item">
+              <h2 class="accordion-header" id="headingMukahProjek">
+                  <button class="accordion-button fw-bold collapsed" type="button" data-bs-toggle="collapse"
+                      data-bs-target="#collapseMukahProjek" aria-expanded="false" aria-controls="collapseMukahProjek">
+                      MUKAH
+                  </button>
+              </h2>
+              <div id="collapseMukahProjek" class="accordion-collapse collapse" aria-labelledby="headingMukahProjek"
+                  data-bs-parent="#projekAccordian">
+                  <div class="accordion-body text-center">
+                      
+                  </div>
+              </div>
+          </div>
       </div>
-    </div>
+  </div>
 
 </section>
