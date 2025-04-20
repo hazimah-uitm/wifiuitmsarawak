@@ -21,7 +21,7 @@
                     style="background-color: #ffffff; border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
                     <div class="card-body text-start">
                         <div class="text-center mb-3"><i class="bi bi-briefcase-fill text-primary fs-2"></i></div>
-                        <h6 class="fw-bold text-primary text-uppercase text-center">UiTM WiFi Staf</h6>
+                        <h6 class="fw-bold text-primary text-center">UiTM WiFi STAFF</h6>
                         <ul class="small ps-3">
                             <li>Guna ID webmail & kata laluan WiFi.</li>
                             <li>Untuk log masuk kali pertama, sila aktifkan ID WiFi
@@ -45,7 +45,7 @@
                     style="background-color: #ffffff; border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
                     <div class="card-body text-start">
                         <div class="text-center mb-3"><i class="bi bi-mortarboard-fill text-success fs-2"></i></div>
-                        <h6 class="fw-bold text-success text-uppercase text-center">UiTM WiFi Pelajar</h6>
+                        <h6 class="fw-bold text-success text-center">UiTM WiFi STUDENT</h6>
                         <ul class="small ps-3">
                             <li>Sila log masuk WiFi menggunakan ID portal pelajar (iStudent).</li>
                             <li>Tiada pengaktifan diperlukan.</li>
@@ -61,7 +61,7 @@
                     style="background-color: #ffffff; border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
                     <div class="card-body text-start">
                         <div class="text-center mb-3"><i class="bi bi-person-badge-fill text-warning fs-2"></i></div>
-                        <h6 class="fw-bold text-warning text-uppercase text-center">UiTM WiFi Tetamu</h6>
+                        <h6 class="fw-bold text-warning text-center">UiTM WiFi GUEST</h6>
                         <ul class="small ps-3">
                             <li>Hubungi pentadbir rangkaian.</li>
                             <li>Telefon:
