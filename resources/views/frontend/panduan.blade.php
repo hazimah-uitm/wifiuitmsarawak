@@ -100,10 +100,10 @@
     </div>
 
     <div class="container" data-aos="fade-up">
-        <div class="row g-4 mt-4 mb-4 align-items-stretch">
+        <div class="row g-4 mt-2 mb-2 align-items-stretch">
             <!-- Tatacara Sambungan WiFi -->
             <div class="col-lg-8">
-                <div class="card shadow-sm h-100">
+                <div class="card shadow-sm h-100 d-flex flex-column">
                     <div class="card-header text-center text-white h6 text-uppercase" style="background-color: #03244c;">
                         Tatacara Sambungan WiFi
                     </div>
@@ -117,7 +117,7 @@
     
             <!-- Liputan WiFi -->
             <div class="col-lg-4">
-                <div class="card shadow-sm">
+                <div class="card shadow-sm h-100 d-flex flex-column">
                     <div class="card-header text-center text-white h6 text-uppercase" style="background-color: #03244c;">
                         Liputan WiFi
                     </div>

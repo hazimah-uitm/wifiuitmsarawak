@@ -55,7 +55,7 @@
                                 </span>
                             </div>
                             <div class="list-group-item">Masjid Al-Qurawiyyin
-                                <span class="badge bg-warning text-dark float-end signal-badge">
+                                <span class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> Medium
                                 </span>
                             </div>

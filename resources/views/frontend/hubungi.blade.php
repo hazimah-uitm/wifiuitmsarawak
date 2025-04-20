@@ -1,4 +1,4 @@
-<section id="contact" class="contact section light-background">
+<section id="contact" class="contact section">
   <div class="container section-title" data-aos="fade-up">
     <h2>Hubungi</h2>
     <div><span>Hubungi</span> <span class="description-title">Kami</span></div>
@@ -65,6 +65,25 @@
         </div>
       </div>
 
+      <div class="col-12" data-aos="fade-up" data-aos-delay="500">
+        <div class="card shadow-sm border-0 p-3 text-center">
+          <div class="card-body">
+            <div class="mb-1">
+              <i class="bi bi-facebook text-primary" style="font-size: 2.5rem;"></i>
+            </div>
+            <h5 class="card-title mb-1 fw-bold">
+              Infostruktur UiTM Cawangan Sarawak
+            </h5>
+            <p class="card-text mb-1">
+              Ikuti kami di Facebook untuk info terkini berkaitan operasi, pengumuman, dan aktiviti Bahagian Infostruktur UiTM Cawangan Sarawak.
+            </p>
+            <a href="https://www.facebook.com/InfostrukturUiTMSwk" target="_blank" class="btn btn-primary rounded-pill px-4 py-2">
+              <i class="bi bi-box-arrow-up-right me-2"></i>Lawati Facebook Kami
+            </a>
+          </div>
+        </div>
+      </div>      
+      
     </div>
   </div>
 </section>

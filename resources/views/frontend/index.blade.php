@@ -84,8 +84,8 @@
               <li><a href="#">Dropdown 4</a></li>
             </ul>
           </li> --}}
-                    <li><a href="#contact">Hubungi</a></li>
                     <li><a href="#aduan">Aduan</a></li>
+                    <li><a href="#contact">Hubungi</a></li>
                 </ul>
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>
@@ -212,14 +212,15 @@
         <!-- panduan Section -->
         @include('frontend.panduan')
         <!-- /panduan Section -->
+        
+        <!-- Faq Section -->
+        @include('frontend.faq')
+        <!-- /Faq Section -->
 
         <!-- Contact Section -->
         @include('frontend.hubungi')
         <!-- /Contact Section -->
 
-        <!-- Faq Section -->
-        @include('frontend.faq')
-        <!-- /Faq Section -->
     </main>
 
     <footer id="footer" class="footer dark-background">
@@ -406,7 +407,8 @@
                                 const textY = bar.y + bar.height / 18 + 3;
 
                                 // optional: adjust text color based on bar width for contrast
-                                if ((bar.width) < ctx.measureText(label).width - 50) {
+                                if ((bar.width) < ctx.measureText(label).width -
+                                    50) {
                                     ctx.fillStyle =
                                         '#000'; // switch to black if text doesn't fit
                                     ctx.textAlign = 'right';
@@ -464,16 +466,16 @@
             this.style.display = 'none';
         });
     </script>
-<script>
-    document.addEventListener("DOMContentLoaded", function () {
-        const tooltipElements = document.querySelectorAll('.tooltipStatus');
-        tooltipElements.forEach(function (element) {
-            new bootstrap.Tooltip(element, {
-                customClass: 'tooltip-multiline'
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const tooltipElements = document.querySelectorAll('.tooltipStatus');
+            tooltipElements.forEach(function(element) {
+                new bootstrap.Tooltip(element, {
+                    customClass: 'tooltip-multiline'
+                });
             });
         });
-    });
-</script>
+    </script>
 
 
 </body>
