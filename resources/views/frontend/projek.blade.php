@@ -8,56 +8,432 @@
     </div><!-- End Section Title -->
 
     <div class="container">
-      <div class="accordion" id="projekAccordian">
+        <div class="accordion" id="projekAccordian">
 
-          <!-- Samarahan -->
-          <div class="accordion-item">
-              <h2 class="accordion-header" id="headingSamarahanProjek">
-                  <button class="accordion-button fw-bold" type="button" data-bs-toggle="collapse"
-                      data-bs-target="#collapseSamarahanProjek" aria-expanded="true" aria-controls="collapseSamarahanProjek">
-                      SAMARAHAN
-                  </button>
-              </h2>
-              <div id="collapseSamarahanProjek" class="accordion-collapse collapse show" aria-labelledby="headingSamarahanProjek"
-                  data-bs-parent="#projekAccordian">
-                  <div class="accordion-body text-center">
-                      
-                  </div>
-              </div>
-          </div>
+            <!-- Samarahan -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingSamarahanProjek">
+                    <button class="accordion-button fw-bold" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#collapseSamarahanProjek" aria-expanded="true"
+                        aria-controls="collapseSamarahanProjek">
+                        SAMARAHAN
+                    </button>
+                </h2>
+                <div id="collapseSamarahanProjek" class="accordion-collapse collapse show"
+                    aria-labelledby="headingSamarahanProjek" data-bs-parent="#projekAccordian">
+                    <div class="accordion-body">
+                        <div class="container">
+                            <h6 class="text-center mb-4">CADANGAN JADUAL GARIS MASA PROJEK MEMBUKA, MEMBEKAL, MENGHANTAR, MEMASANG DAN MENGUJILARI PERALATAN SERTA MENAIK TARAF SISTEM RANGKAIAN DI UNIVERSITI TEKNOLOGI MARA CAWANGAN SARAWAK, KAMPUS KOTA SAMARAHAN</h6>
+                            <div class="table-responsive">
+                                <table class="table table-sm table-striped table-hover"
+                                    style="border-collapse: collapse;">
+                                    <!-- Tahun Row -->
+                                    <tr class="font-weight-bold text-center" style="border: 1px solid #dee2e6;">
+                                        <td
+                                            style="width: 20%; border: 1px solid #dee2e6; border-radius: 10px 0 0 0; background-color: #f8f9fa;">
+                                            &nbsp;</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">2024</td>
+                                        <td colspan="12"
+                                            style="border: 1px solid #dee2e6; border-radius: 0 10px 0 0; background-color: #f8f9fa;">
+                                            2025</td>
+                                    </tr>
 
-          <!-- Samarahan 2 -->
-          <div class="accordion-item">
-              <h2 class="accordion-header" id="headingSamarahan2Projek">
-                  <button class="accordion-button fw-bold collapsed" type="button" data-bs-toggle="collapse"
-                      data-bs-target="#collapseSamarahan2Projek" aria-expanded="false" aria-controls="collapseSamarahan2Projek">
-                      SAMARAHAN 2
-                  </button>
-              </h2>
-              <div id="collapseSamarahan2Projek" class="accordion-collapse collapse" aria-labelledby="headingSamarahan2Projek"
-                  data-bs-parent="#projekAccordian">
-                  <div class="accordion-body text-center">
-                      
-                  </div>
-              </div>
-          </div>
+                                    <!-- Bulan Row -->
+                                    <tr class="font-weight-bold text-center" style="border: 1px solid #dee2e6;">
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">Fasa</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">DIS</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">JAN</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">FEB</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">MAC</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">APR</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">MEI</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">JUN</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">JUL</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">OGOS</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">SEPT</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">OKT</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">NOV</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">DIS</td>
+                                    </tr>
+                                    <!-- Fasa 1: Pelawaan -->
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">Pelawaan</td>
+                                        <td style="background-color: #007bff;" data-bs-toggle="tooltip"
+                                            data-bs-placement="right" title="31/12/2024 - 03/02/2025"></td>
+                                        <td style="background-color: #007bff;" data-bs-toggle="tooltip"
+                                            data-bs-placement="right" title="31/12/2024 - 03/02/2025"></td>
+                                        <td style="background-color: #007bff;" data-bs-toggle="tooltip"
+                                            data-bs-placement="right" title="31/12/2024 - 03/02/2025"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
+                                    </tr>
 
-          <!-- Mukah -->
-          <div class="accordion-item">
-              <h2 class="accordion-header" id="headingMukahProjek">
-                  <button class="accordion-button fw-bold collapsed" type="button" data-bs-toggle="collapse"
-                      data-bs-target="#collapseMukahProjek" aria-expanded="false" aria-controls="collapseMukahProjek">
-                      MUKAH
-                  </button>
-              </h2>
-              <div id="collapseMukahProjek" class="accordion-collapse collapse" aria-labelledby="headingMukahProjek"
-                  data-bs-parent="#projekAccordian">
-                  <div class="accordion-body text-center">
-                      
-                  </div>
-              </div>
-          </div>
-      </div>
-  </div>
+                                    <!-- Fasa 2: Analisa Tender -->
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">Analisa Tender</td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="background-color: #17a2b8;" data-bs-toggle="tooltip"
+                                            data-bs-placement="right" title="18/02/2025 - 26/02/2025"></td>
+                                        <td style="background-color: #17a2b8;" data-bs-toggle="tooltip"
+                                            data-bs-placement="right" title="18/02/2025 - 26/02/2025"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
+                                    </tr>
+
+                                    <!-- Fasa 3: Pengurusan Tawaran Kontrak -->
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">Tawaran Kontrak</td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="background-color: #20c997;" data-bs-toggle="tooltip"
+                                            data-bs-placement="right" title="29/02/2025 - 08/03/2025"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
+                                    </tr>
+
+                                    <!-- Fasa 4: Pesanan Tempatan -->
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;;">Pesanan Tempatan</td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="background-color: #ffc107;" data-bs-toggle="tooltip"
+                                            data-bs-placement="right" title="09/03/2025 - 28/03/2025"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
+                                    </tr>
+
+                                    <!-- Fasa 5: Pentauliahan -->
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">Pentauliahan</td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="background-color: #6f42c1;" data-bs-toggle="tooltip"
+                                            data-bs-placement="right" title="29/03/2025"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
+                                    </tr>
+
+                                    <!-- Fasa 6: Pelaksanaan Projek -->
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">Pelaksanaan Projek</td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="background-color: #28a745;" data-bs-toggle="tooltip"
+                                            data-bs-placement="right" title="01/04/2025 - 13/07/2025"></td>
+                                        <td style="background-color: #28a745;" data-bs-toggle="tooltip"
+                                            data-bs-placement="right" title="01/04/2025 - 13/07/2025"></td>
+                                        <td style="background-color: #28a745;" data-bs-toggle="tooltip"
+                                            data-bs-placement="right" title="01/04/2025 - 13/07/2025"></td>
+                                        <td style="background-color: #28a745;" data-bs-toggle="tooltip"
+                                            data-bs-placement="right" title="01/04/2025 - 13/07/2025"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
+                                    </tr>
+
+                                    <!-- Fasa 7: UAT & Laporan -->
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">UAT & Laporan</td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="background-color: #fd7e14;" data-bs-toggle="tooltip"
+                                            data-bs-placement="right" title="16/07/2025 - 30/07/2025"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
+                                    </tr>
+
+                                    <!-- Fasa 8: Projek Selesai -->
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">Projek Selesai</td>
+                                        <td style="border-bottom: 1px solid #dee2e6;"></td>
+                                        <td style="border-bottom: 1px solid #dee2e6;"></td>
+                                        <td style="border-bottom: 1px solid #dee2e6;"></td>
+                                        <td style="border-bottom: 1px solid #dee2e6;"></td>
+                                        <td style="border-bottom: 1px solid #dee2e6;"></td>
+                                        <td style="border-bottom: 1px solid #dee2e6;"></td>
+                                        <td style="border-bottom: 1px solid #dee2e6;"></td>
+                                        <td style="border-bottom: 1px solid #dee2e6;"></td>
+                                        <td style="border-bottom: 1px solid #dee2e6; background-color: #dc3545;"
+                                            data-bs-toggle="tooltip" data-bs-placement="right" title="31/07/2025">
+                                        </td>
+                                        <td style="border-bottom: 1px solid #dee2e6;"></td>
+                                        <td style="border-bottom: 1px solid #dee2e6;"></td>
+                                        <td style="border-bottom: 1px solid #dee2e6;"></td>
+                                        <td style="border-right: 1px solid #dee2e6; border-bottom: 1px solid #dee2e6;">
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Samarahan 2 -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingSamarahan2Projek">
+                    <button class="accordion-button fw-bold collapsed" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#collapseSamarahan2Projek" aria-expanded="false"
+                        aria-controls="collapseSamarahan2Projek">
+                        SAMARAHAN 2
+                    </button>
+                </h2>
+                <div id="collapseSamarahan2Projek" class="accordion-collapse collapse"
+                    aria-labelledby="headingSamarahan2Projek" data-bs-parent="#projekAccordian">
+                    <div class="accordion-body">
+                        <div class="container">
+                            <h6 class="text-center mb-4">CADANGAN JADUAL GARIS MASA PROJEK NAIK TARAF SISTEM RANGKAIAN
+                                TANPA WAYAR (WIFI) DI KAWASAN KOLEJ KEDIAMAN PELAJAR, GUNASAMA, AKADEMIK DAN PENTADBIRAN
+                                BAGI UITM CAWANGAN SARAWAK KAMPUS SAMARAHAN 2</h6>
+                            <div class="table-responsive">
+                                <table class="table table-sm table-striped table-hover"
+                                    style="border-collapse: collapse;">
+                                    <!-- Tahun Row -->
+                                    <tr class="font-weight-bold text-center" style="border: 1px solid #dee2e6;">
+                                        <td
+                                            style="width: 20%; border: 1px solid #dee2e6; border-radius: 10px 0 0 0; background-color: #f8f9fa;">
+                                            &nbsp;</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">2024</td>
+                                        <td colspan="12"
+                                            style="border: 1px solid #dee2e6; border-radius: 0 10px 0 0; background-color: #f8f9fa;">
+                                            2025</td>
+                                    </tr>
+
+                                    <!-- Bulan Row -->
+                                    <tr class="font-weight-bold text-center" style="border: 1px solid #dee2e6;">
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">Fasa</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">DIS</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">JAN</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">FEB</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">MAC</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">APR</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">MEI</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">JUN</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">JUL</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">OGOS</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">SEPT</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">OKT</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">NOV</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">DIS</td>
+                                    </tr>
+                                    <!-- Fasa 1: Pelawaan -->
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">Pelawaan</td>
+                                        <td style="background-color: #007bff;" data-bs-toggle="tooltip"
+                                            data-bs-placement="right" title="31/12/2024 - 03/02/2025"></td>
+                                        <td style="background-color: #007bff;" data-bs-toggle="tooltip"
+                                            data-bs-placement="right" title="31/12/2024 - 03/02/2025"></td>
+                                        <td style="background-color: #007bff;" data-bs-toggle="tooltip"
+                                            data-bs-placement="right" title="31/12/2024 - 03/02/2025"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
+                                    </tr>
+
+                                    <!-- Fasa 2: Analisa Tender -->
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">Analisa Tender</td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="background-color: #17a2b8;" data-bs-toggle="tooltip"
+                                            data-bs-placement="right" title="18/02/2025 - 26/02/2025"></td>
+                                        <td style="background-color: #17a2b8;" data-bs-toggle="tooltip"
+                                            data-bs-placement="right" title="18/02/2025 - 26/02/2025"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
+                                    </tr>
+
+                                    <!-- Fasa 3: Pengurusan Tawaran Kontrak -->
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">Tawaran Kontrak</td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="background-color: #20c997;" data-bs-toggle="tooltip"
+                                            data-bs-placement="right" title="29/02/2025 - 08/03/2025"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
+                                    </tr>
+
+                                    <!-- Fasa 4: Pesanan Tempatan -->
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;;">Pesanan Tempatan</td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="background-color: #ffc107;" data-bs-toggle="tooltip"
+                                            data-bs-placement="right" title="09/03/2025 - 28/03/2025"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
+                                    </tr>
+
+                                    <!-- Fasa 5: Pentauliahan -->
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">Pentauliahan</td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="background-color: #6f42c1;" data-bs-toggle="tooltip"
+                                            data-bs-placement="right" title="29/03/2025"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
+                                    </tr>
+
+                                    <!-- Fasa 6: Pelaksanaan Projek -->
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">Pelaksanaan Projek</td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="background-color: #28a745;" data-bs-toggle="tooltip"
+                                            data-bs-placement="right" title="01/04/2025 - 13/07/2025"></td>
+                                        <td style="background-color: #28a745;" data-bs-toggle="tooltip"
+                                            data-bs-placement="right" title="01/04/2025 - 13/07/2025"></td>
+                                        <td style="background-color: #28a745;" data-bs-toggle="tooltip"
+                                            data-bs-placement="right" title="01/04/2025 - 13/07/2025"></td>
+                                        <td style="background-color: #28a745;" data-bs-toggle="tooltip"
+                                            data-bs-placement="right" title="01/04/2025 - 13/07/2025"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
+                                    </tr>
+
+                                    <!-- Fasa 7: UAT & Laporan -->
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">UAT & Laporan</td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="background-color: #fd7e14;" data-bs-toggle="tooltip"
+                                            data-bs-placement="right" title="16/07/2025 - 30/07/2025"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border: none;"></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
+                                    </tr>
+
+                                    <!-- Fasa 8: Projek Selesai -->
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">Projek Selesai</td>
+                                        <td style="border-bottom: 1px solid #dee2e6;"></td>
+                                        <td style="border-bottom: 1px solid #dee2e6;"></td>
+                                        <td style="border-bottom: 1px solid #dee2e6;"></td>
+                                        <td style="border-bottom: 1px solid #dee2e6;"></td>
+                                        <td style="border-bottom: 1px solid #dee2e6;"></td>
+                                        <td style="border-bottom: 1px solid #dee2e6;"></td>
+                                        <td style="border-bottom: 1px solid #dee2e6;"></td>
+                                        <td style="border-bottom: 1px solid #dee2e6;"></td>
+                                        <td style="border-bottom: 1px solid #dee2e6; background-color: #dc3545;"
+                                            data-bs-toggle="tooltip" data-bs-placement="right" title="31/07/2025">
+                                        </td>
+                                        <td style="border-bottom: 1px solid #dee2e6;"></td>
+                                        <td style="border-bottom: 1px solid #dee2e6;"></td>
+                                        <td style="border-bottom: 1px solid #dee2e6;"></td>
+                                        <td style="border-right: 1px solid #dee2e6; border-bottom: 1px solid #dee2e6;">
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
 </section>

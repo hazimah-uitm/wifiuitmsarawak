@@ -212,7 +212,7 @@
         <!-- panduan Section -->
         @include('frontend.panduan')
         <!-- /panduan Section -->
-        
+
         <!-- Faq Section -->
         @include('frontend.faq')
         <!-- /Faq Section -->
@@ -474,6 +474,11 @@
                     customClass: 'tooltip-multiline'
                 });
             });
+        });
+    </script>
+    <script>
+        $(document).ready(function() {
+            $('[data-bs-toggle="tooltip"]').tooltip();
         });
     </script>
 
