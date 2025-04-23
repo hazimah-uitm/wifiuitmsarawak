@@ -43,7 +43,7 @@
             <!-- Samarahan -->
             <div class="col-md-4">
                 <div class="card h-100 shadow-sm">
-                    <div class="card-HEAder text-white text-uppercase text-center" style="background-color: #03244c">
+                    <div class="card-header text-white text-uppercase text-center" style="background-color: #03244c">
                         Samarahan
                     </div>
                     <div class="card-body p-0">
@@ -738,7 +738,7 @@
             <!-- Samarahan 2 -->
             <div class="col-md-4">
                 <div class="card h-100 shadow-sm">
-                    <div class="card-HEAder text-white text-uppercase text-center" style="background-color: #03244c">
+                    <div class="card-header text-white text-uppercase text-center" style="background-color: #03244c">
                         Samarahan 2
                     </div>
                     <div class="card-body p-0">
@@ -1551,7 +1551,7 @@
             <!-- Mukah -->
             <div class="col-md-4">
                 <div class="card h-100 shadow-sm">
-                    <div class="card-HEAder text-white text-uppercase text-center"
+                    <div class="card-header text-white text-uppercase text-center"
                         style="background-color: #03244c">
                         Mukah
                     </div>
