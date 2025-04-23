@@ -50,8 +50,8 @@
                         <div class="list-group list-group-flush" style="max-height: 250px; overflow-y: auto;"
                             id="samarahanList">
                             <div class="list-group-item">Ruai Pengawa
-                                <span class="badge bg-success float-end signal-badge">
-                                    <i class="fa fa-wifi"></i> High
+                                <span class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
                                 </span>
                             </div>
                             <div class="list-group-item">Masjid Al-Qurawiyyin
@@ -60,8 +60,8 @@
                                 </span>
                             </div>
                             <div class="list-group-item">Bilik Pemandu
-                                <span class="badge bg-danger float-end signal-badge">
-                                    <i class="fa fa-wifi"></i> Low
+                                <span class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
                                 </span>
                             </div>
                             <div class="list-group-item">Block Pentadbiran</div>
@@ -95,7 +95,7 @@
                             <div class="list-group-item">Block A First Floor 1</div>
                             <div class="list-group-item">Block A First Floor 2</div>
                             <div class="list-group-item list-group-item-primary">Block B</div>
-                            <div class="list-group-item">First Floor 1</div>
+                            <div class="list-group-item">First Floor 1 </div>
                             <div class="list-group-item">First Floor 2</div>
                             <div class="list-group-item">First Floor 3</div>
                             <div class="list-group-item">Secd Floor 1</div>
@@ -135,9 +135,13 @@
                             <div class="list-group-item">Block I 1</div>
                             <div class="list-group-item">Block I 2</div>
                             <div class="list-group-item list-group-item-primary">Block J</div>
-                            <div class="list-group-item">Block J Ground Floor (1)</div>
+                            <div class="list-group-item">Block J Ground Floor (1) <span class="badge bg-danger float-end signal-badge">
+                                <i class="fa fa-wifi"></i> Low
+                            </span></div>
                             <div class="list-group-item list-group-item-primary">Block K</div>
-                            <div class="list-group-item">Block K Ground Floor (1)</div>
+                            <div class="list-group-item">Block K Ground Floor (1) <span class="badge bg-success float-end signal-badge">
+                                <i class="fa fa-wifi"></i> High
+                            </span></div>
                             <div class="list-group-item">Auditorium 1 Block K</div>
                             <div class="list-group-item">Auditorium 2 Block K</div>
                             <div class="list-group-item">Block K Upper Floor</div>
