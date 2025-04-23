@@ -43,7 +43,7 @@
             <!-- Samarahan -->
             <div class="col-md-4">
                 <div class="card h-100 shadow-sm">
-                    <div class="card-header text-white text-uppercase text-center" style="background-color: #03244c">
+                    <div class="card-HEAder text-white text-uppercase text-center" style="background-color: #03244c">
                         Samarahan
                     </div>
                     <div class="card-body p-0">
@@ -395,13 +395,7 @@
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> Medium</span></div>
                             <div class="list-group-item text-capitalize">Kantin Medan Jubli <span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 0, 0)">
-                                    <i class="fa fa-wifi"></i> High</span></div>
-                            <div class="list-group-item text-capitalize">Kantin Medan Jubli <span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 0, 0)">
-                                    <i class="fa fa-wifi"></i> High</span></div>
-                            <div class="list-group-item text-capitalize">Kantin Medan Jubli <span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 0, 0)">
+                                    class="badge float-end bg-success signal-badge">
                                     <i class="fa fa-wifi"></i> High</span></div>
                             <div class="list-group-item text-capitalize">Kolej Gading blok 1 wing A tingkat 1 <span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
@@ -744,808 +738,811 @@
             <!-- Samarahan 2 -->
             <div class="col-md-4">
                 <div class="card h-100 shadow-sm">
-                    <div class="card-header text-white text-uppercase text-center" style="background-color: #03244c">
+                    <div class="card-HEAder text-white text-uppercase text-center" style="background-color: #03244c">
                         Samarahan 2
                     </div>
                     <div class="card-body p-0">
                         <div class="list-group list-group-flush" style="max-height: 250px; overflow-y: auto;"
                             id="samarahan2List">
-                            <div class="list-group-item text-capitalize">bilik seminar utama, aras 2<span
+                            <div class="list-group-item text-capitalize">bilik mesyuarat, MASMED<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">bilik mesyuarat pentadbiran, aras 2<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">bilik mesyuarat HEA, aras 1<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">ruang kaunter HEA, aras 1<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">koridor, aras 1<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">bilik mesyuarat HEP, aras 1<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">bilik mesyuarat perolehan, aras 1<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">bilik mesyuarat infrastruktur, aras 1<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">PTAR aras 1 (01/03)<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">PTAR aras 1 (02/03)<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">PTAR aras 1, bilik 24 jam<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">PTAR aras 2 (01/02)<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">PTAR aras 2 (02/02)<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">MASMED bilik mesy<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">MASMED ruang pejabat<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">masjid al ghazali<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">pusat pelajar aras 1 (07 a 01 005)<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">pusat pelajar aras 1 (07 a 01 032)<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">pusat pelajar aras 1 (07 a 01 033)<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">pusat pelajar aras 2 (07 a 02 003)<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">pusat pelajar aras 2 (07 a 02 010)<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">pusat pelajar aras 2, bilik perwakilan
-                                pelajar<span class="badge float-end signal-badge"
+                            <div class="list-group-item text-capitalize">bilik mesyuarat HEA, <br>aras 1 blok
+                                pentadbiran<span class="badge float-end signal-badge"
                                     style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-
-                            <div class="list-group-item text-capitalize">blok a aras 1 (12 a 01 004)<span
+                            <div class="list-group-item text-capitalize">bilik mesyuarat HEP, <br>aras 1 blok
+                                pentadbiran<span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> medium
+                                </span></div>
+                            <div class="list-group-item text-capitalize">bilik mesyuarat infrastruktur, <br>aras 1 blok
+                                infrastruktur<span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> medium
+                                </span></div>
+                            <div class="list-group-item text-capitalize">bilik mesyuarat pentadbiran, <br>aras 2 blok
+                                pentadbiran<span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> medium
+                                </span></div>
+                            <div class="list-group-item text-capitalize">bilik mesyuarat perolehan, <br>aras 1 blok
+                                pentadbiran<span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> medium
+                                </span></div>
+                            <div class="list-group-item text-capitalize">bilik perwakilan pelajar aras 2<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok a aras 1 (12 a 01 013)<span
+                            <div class="list-group-item text-capitalize">bilik seminar utama, <br>aras 2 blok
+                                pentadbiran<span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> medium
+                                </span></div>
+                            <div class="list-group-item text-capitalize">blok a, aras 1 (12 a 01 004)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok a aras 1 (12 a 01 018)<span
+                            <div class="list-group-item text-capitalize">blok a, aras 1 (12 a 01 013)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok a aras 1 (12 a 01 031)<span
+                            <div class="list-group-item text-capitalize">blok a, aras 1 (12 a 01 018)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok a aras 2 (12 a 02 006)<span
+                            <div class="list-group-item text-capitalize">blok a, aras 1 (12 a 01 031)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok a aras 2 (12 a 02 028)<span
+                            <div class="list-group-item text-capitalize">blok a, aras 2 (12 a 02 006)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok a aras 2 (12 a 02 051)<span
+                            <div class="list-group-item text-capitalize">blok a, aras 2 (12 a 02 028)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok a aras 2 (12 a 02 066)<span
+                            <div class="list-group-item text-capitalize">blok a, aras 2 (12 a 02 051)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok a aras 2, audi a<span
+                            <div class="list-group-item text-capitalize">blok a, aras 2 (12 a 02 066)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok a aras 3 (12 a 03 005)<span
+                            <div class="list-group-item text-capitalize">blok a, aras 2, audi a<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok a aras 3 (12 a 03 028)<span
+                            <div class="list-group-item text-capitalize">blok a, aras 3 (12 a 03 005)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok a aras 3 (12 a 03 051)<span
+                            <div class="list-group-item text-capitalize">blok a, aras 3 (12 a 03 028)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok a aras 3 (12 a 03 093)<span
+                            <div class="list-group-item text-capitalize">blok a, aras 3 (12 a 03 051)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok b aras 1 (11 a 01 001)<span
+                            <div class="list-group-item text-capitalize">blok a, aras 3 (12 a 03 093)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok b aras 1 (11 a 01 010)<span
+                            <div class="list-group-item text-capitalize">blok b, aras 1 (11 a 01 001)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok b aras 1 (11 a 01 015)<span
+                            <div class="list-group-item text-capitalize">blok b, aras 1 (11 a 01 010)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok b aras 1 (11 a 01 021)<span
+                            <div class="list-group-item text-capitalize">blok b, aras 1 (11 a 01 015)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok b aras 1 (hentian bas)<span
+                            <div class="list-group-item text-capitalize">blok b, aras 1 (11 a 01 021)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok b aras 2 (11 a 02 003)<span
+                            <div class="list-group-item text-capitalize">blok b, aras 1 (hentian bas)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok b aras 2 (11 a 02 026)<span
+                            <div class="list-group-item text-capitalize">blok b, aras 2 (11 a 02 003)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok b aras 2 (11 a 02 041)<span
+                            <div class="list-group-item text-capitalize">blok b, aras 2 (11 a 02 026)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok b aras 2 (11 a 02 062)<span
+                            <div class="list-group-item text-capitalize">blok b, aras 2 (11 a 02 041)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok b aras 2, audi b<span
+                            <div class="list-group-item text-capitalize">blok b, aras 2 (11 a 02 062)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok b aras 3 (11 a 03 003)<span
+                            <div class="list-group-item text-capitalize">blok b, aras 2, audi b<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok b aras 3 (11 a 03 018)<span
+                            <div class="list-group-item text-capitalize">blok b, aras 3 (11 a 03 003)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok b aras 3 (11 a 03 039)<span
+                            <div class="list-group-item text-capitalize">blok b, aras 3 (11 a 03 018)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok b aras 3 (11 a 03 048)<span
+                            <div class="list-group-item text-capitalize">blok b, aras 3 (11 a 03 039)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok b aras 4 (11 a 04 004)<span
+                            <div class="list-group-item text-capitalize">blok b, aras 3 (11 a 03 048)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok b aras 4 (11 a 04 017)<span
+                            <div class="list-group-item text-capitalize">blok b, aras 4 (11 a 04 004)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok b aras 4 (11 a 04 033)<span
+                            <div class="list-group-item text-capitalize">blok b, aras 4 (11 a 04 017)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok b aras 4 (11 a 04 059)<span
+                            <div class="list-group-item text-capitalize">blok b, aras 4 (11 a 04 033)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok b aras 4 (11 a 04 076)<span
+                            <div class="list-group-item text-capitalize">blok b, aras 4 (11 a 04 059)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok b aras 5 (11 a 05 004)<span
+                            <div class="list-group-item text-capitalize">blok b, aras 4 (11 a 04 076)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok b aras 5 (11 a 05 013)<span
+                            <div class="list-group-item text-capitalize">blok b, aras 5 (11 a 05 004)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok b aras 5 (11 a 05 037)<span
+                            <div class="list-group-item text-capitalize">blok b, aras 5 (11 a 05 013)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok b aras 5 (11 a 05 053)<span
+                            <div class="list-group-item text-capitalize">blok b, aras 5 (11 a 05 037)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-
-                            <div class="list-group-item text-capitalize">blok c aras 1 (10 a 01 002)<span
+                            <div class="list-group-item text-capitalize">blok b, aras 5 (11 a 05 053)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok c aras 1 (10 a 01 011)<span
+                            <div class="list-group-item text-capitalize">blok c, aras 1 (10 a 01 002)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok c aras 1 (10 a 01 015)<span
+                            <div class="list-group-item text-capitalize">blok c, aras 1 (10 a 01 011)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok c aras 1 (10 a 01 021)<span
+                            <div class="list-group-item text-capitalize">blok c, aras 1 (10 a 01 015)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok c aras 2 (10 a 02 003)<span
+                            <div class="list-group-item text-capitalize">blok c, aras 1 (10 a 01 021)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok c aras 2 (10 a 02 012)<span
+                            <div class="list-group-item text-capitalize">blok c, aras 2 (10 a 02 003)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok c aras 2 (10 a 02 016)<span
+                            <div class="list-group-item text-capitalize">blok c, aras 2 (10 a 02 012)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok c aras 2 (10 a 02 023)<span
+                            <div class="list-group-item text-capitalize">blok c, aras 2 (10 a 02 016)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok c aras 3 (10 a 03 003)<span
+                            <div class="list-group-item text-capitalize">blok c, aras 2 (10 a 02 023)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok c aras 3 (10 a 03 012)<span
+                            <div class="list-group-item text-capitalize">blok c, aras 3 (10 a 03 003)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok c aras 3 (10 a 03 016)<span
+                            <div class="list-group-item text-capitalize">blok c, aras 3 (10 a 03 012)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">blok c aras 3 (10 a 03 022)<span
+                            <div class="list-group-item text-capitalize">blok c, aras 3 (10 a 03 016)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
+                                </span></div>
+                            <div class="list-group-item text-capitalize">blok c, aras 3 (10 a 03 022)<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
                             <div class="list-group-item text-capitalize">dewan makan sri pinang (01/04)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
                             <div class="list-group-item text-capitalize">dewan makan sri pinang (02/04)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
                             <div class="list-group-item text-capitalize">dewan makan sri pinang (03/04)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
                             <div class="list-group-item text-capitalize">dewan makan sri pinang (04/04)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 1, 01/08<span
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras , 03/12<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 1, 02/08<span
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras , 09/12<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 1, 03/08<span
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 1, 01/08<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 1, 04/08<span
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 1, 02/08<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 1, 05/08<span
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 1, 03/08<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 1, 06/08<span
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 1, 04/08<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 1, 07/08<span
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 1, 05/08<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 1, 08/08<span
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 1, 06/08<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 2, 01/12<span
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 1, 07/08<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 2, 02/12<span
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 1, 08/08<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 2, 03/12<span
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 2, 01/12<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 2, 04/12<span
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 2, 02/12<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 2, 05/12<span
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 2, 03/12<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 2, 06/12<span
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 2, 04/12<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 2, 07/12<span
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 2, 05/12<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 2, 08/12<span
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 2, 06/12<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 2, 09/12<span
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 2, 07/12<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 2, 10/12<span
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 2, 08/12<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 2, 11/12<span
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 2, 09/12<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 2, 12/12<span
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 2, 10/12<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 3, 01/12<span
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 2, 11/12<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 3, 02/12<span
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 2, 12/12<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 3, 03/12<span
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 3, 01/12<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 3, 04/12<span
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 3, 02/12<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
+                                    <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 3, 05/12<span
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 3, 04/12<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 3, 06/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 3, 07/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 3, 08/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 3, 09/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 3, 10/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 3, 11/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 3, 12/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 4, 01/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 4, 02/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 4, 03/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 4, 04/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 4, 05/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 4, 06/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 4, 07/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 4, 08/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 4, 09/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 4, 10/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 4, 11/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 4, 12/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 5, 01/06<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 5, 02/06<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 5, 03/06<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 5, 04/06<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 5, 05/06<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswa Aras 5, 06/06<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 1, 01/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 1, 02/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 1, 03/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 1, 04/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 1, 05/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 1, 06/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 1, 07/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 1, 08/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 1, 09/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 1, 10/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 1, 11/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 1, 12/12<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 2, 01/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 2, 02/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 2, 03/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 2, 04/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 2, 05/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 2, 06/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 2, 07/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 2, 08/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 2, 09/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 2, 10/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 2, 11/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 2, 12/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 2, 13/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 2, 14/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 2, 15/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 2, 16/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 2, 17/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 2, 18/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 3, 01/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 3, 02/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 3, 03/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 3, 04/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 3, 05/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 3, 06/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 3, 07/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 3, 08/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 3, 09/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 3, 10/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 3, 11/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 3, 12/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 3, 13/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 3, 14/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 3, 15/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 3, 16/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 3, 17/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 3, 18/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 4, 01/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 4, 02/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 4, 03/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 4, 04/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 4, 05/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 4, 06/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 4, 07/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 4, 08/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 4, 09/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 4, 10/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 4, 11/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 4, 12/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 4, 13/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 4, 14/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 4, 15/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 4, 16/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 4, 17/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 4, 18/18<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 5, 01/08<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 5, 02/08<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 5, 03/08<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 5, 04/08<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 5, 05/08<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 5, 06/08<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 5, 07/08<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
-                            <div class="list-group-item text-capitalize">Kolej Sri Pinang Siswi Aras 5, 08/08<span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
-                                    <i class="fa fa-wifi"></i> Medium
-                                </span></div>
+                                    <i class="fa fa-wifi"></i> medium
+                                </span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 3, 05/12<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> medium
+                                </span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 3, 06/12<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> medium
+                                </span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 3, 07/12<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> medium
+                                </span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 3, 08/12<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> medium
+                                </span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 3, 09/12<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> medium
+                                </span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 3, 10/12<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> medium
+                                </span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 3, 11/12<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> medium
+                                </span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 3, 12/12<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> medium
+                                </span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 4, 01/12<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 4, 02/12<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 4, 03/12<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 4, 04/12<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 4, 05/12<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 4, 06/12<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 4, 07/12<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 4, 08/12<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 4, 10/12<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 4, 11/12<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 4, 12/12<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 5, 01/06<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 5, 02/06<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 5, 03/06<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 5, 04/06<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 5, 05/06<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswa, aras 5, 06/06<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 1, 01/12<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 1, 02/12<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 1, 03/12<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 1, 04/12<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 1, 05/12<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 1, 06/12<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 1, 07/12<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 1, 08/12<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 1, 09/12<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 1, 10/12<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 1, 11/12<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                            <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 1, 12/12<span
+                                    class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)"><i class="fa fa-wifi"></i>
+                                    medium</span></div>
+                                    <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 2, 01/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 2, 02/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 2, 03/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 2, 04/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 2, 05/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 2, 06/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 2, 07/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 2, 08/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 2, 09/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 2, 10/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 2, 11/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 2, 12/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 2, 13/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 2, 14/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 2, 15/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 2, 16/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 2, 17/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 2, 18/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 3, 01/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 3, 02/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 3, 03/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 3, 04/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 3, 05/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 3, 06/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 3, 07/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 3, 08/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 3, 09/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 3, 10/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 3, 11/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 3, 12/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 3, 13/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 3, 14/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 3, 15/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 3, 16/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 3, 17/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 3, 18/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 4, 01/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 4, 02/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 4, 03/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 4, 04/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 4, 05/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 4, 06/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 4, 07/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 4, 08/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 4, 09/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 4, 10/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 4, 11/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 4, 12/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 4, 13/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 4, 14/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 4, 15/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 4, 16/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 4, 17/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 4, 18/18<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                    <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 5, 01/08<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 5, 02/08<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 5, 03/08<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 5, 04/08<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 5, 05/08<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 5, 06/08<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 5, 07/08<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">kolej sri pinang siswi, aras 5, 08/08<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">koridor, aras 1 blok pentadbiran<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">masjid al ghazali<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">ptar aras 1 (01/03)<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">ptar aras 1 (02/03)<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">ptar aras 2 (01/02)<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">ptar aras 2 (02/02)<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">ptar, aras 1, bilik 24 jam<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">pusat pelajar aras 2 (07 a 02 003)<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">pusat pelajar aras 2 (07 a 02 010)<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">pusat peljar aras 1 (07 a 01 005)<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">pusat peljar aras 1 (07 a 01 032)<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">pusat peljar aras 1 (07 a 01 033)<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">ruang kaunter HEA, aras 1 blok pentadbiran<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                <div class="list-group-item text-capitalize">ruang pejabat MASMED<span
+                                        class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                        <i class="fa fa-wifi"></i> medium
+                                    </span></div>
+                                                                
                         </div>
                     </div>
                 </div>
@@ -1554,7 +1551,7 @@
             <!-- Mukah -->
             <div class="col-md-4">
                 <div class="card h-100 shadow-sm">
-                    <div class="card-header text-white text-uppercase text-center"
+                    <div class="card-HEAder text-white text-uppercase text-center"
                         style="background-color: #03244c">
                         Mukah
                     </div>
