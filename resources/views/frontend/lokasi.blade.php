@@ -49,136 +49,413 @@
                     <div class="card-body p-0">
                         <div class="list-group list-group-flush" style="max-height: 250px; overflow-y: auto;"
                             id="samarahanList">
-                            <div class="list-group-item">Ruai Pengawa
-                                <span class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                            <div class="list-group-item">BILIK MESYUARAT <span
+                                    class="badge bg-success float-end signal-badge">
+                                    <i class="fa fa-wifi"></i> High
+                                </span></div>
+                            <div class="list-group-item">Bilik Pemandu <span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> Medium
-                                </span>
-                            </div>
-                            <div class="list-group-item">Masjid Al-Qurawiyyin
-                                <span class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                </span></div>
+                            <div class="list-group-item">Bilik Perdana <span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> Medium
-                                </span>
-                            </div>
-                            <div class="list-group-item">Bilik Pemandu
-                                <span class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                </span></div>
+                            <div class="list-group-item">BILIK SEMINAR <span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> Medium
-                                </span>
-                            </div>
-                            <div class="list-group-item">Block Pentadbiran</div>
-                            <div class="list-group-item list-group-item-primary">Dewan Makan Mulu</div>
-                            <div class="list-group-item">Ground Floor 1</div>
-                            <div class="list-group-item">Ground Floor 2</div>
-                            <div class="list-group-item">First Floor 1</div>
-                            <div class="list-group-item">First Floor 2</div>
-                            <div class="list-group-item list-group-item-primary">HEP</div>
-                            <div class="list-group-item">HEP Ground Floor</div>
-                            <div class="list-group-item">HEP First Floor</div>
-                            <div class="list-group-item list-group-item-primary">Dewan Makan Gading</div>
-                            <div class="list-group-item">Dewan Makan Gading 1</div>
-                            <div class="list-group-item">Dewan Makan Gading 2</div>
-                            <div class="list-group-item list-group-item-primary">Pusat Pelajar</div>
-                            <div class="list-group-item">Pusat Pelajar 1</div>
-                            <div class="list-group-item">Pusat Pelajar 2</div>
-                            <div class="list-group-item">Ruang Santai Pusat Pelajar</div>
-                            <div class="list-group-item list-group-item-primary">Dewan Jubli</div>
-                            <div class="list-group-item">Dewan Jubli1</div>
-                            <div class="list-group-item">Dewan Jubli2</div>
-                            <div class="list-group-item list-group-item-primary">PTAR</div>
-                            <div class="list-group-item">PTAR Outside 1</div>
-                            <div class="list-group-item">PTAR Outside 2</div>
-                            <div class="list-group-item">PTAR Inside 1</div>
-                            <div class="list-group-item">PTAR Inside 2</div>
-                            <div class="list-group-item list-group-item-primary">Block A</div>
-                            <div class="list-group-item">Block A Ground Floor 1</div>
-                            <div class="list-group-item">Block A Ground Floor 2</div>
-                            <div class="list-group-item">Bilik Perdana</div>
-                            <div class="list-group-item">Block A First Floor 1</div>
-                            <div class="list-group-item">Block A First Floor 2</div>
-                            <div class="list-group-item list-group-item-primary">Block B</div>
-                            <div class="list-group-item">First Floor 1 </div>
-                            <div class="list-group-item">First Floor 2</div>
-                            <div class="list-group-item">First Floor 3</div>
-                            <div class="list-group-item">Secd Floor 1</div>
-                            <div class="list-group-item">Secd Floor 2</div>
-                            <div class="list-group-item">Secd Floor 3</div>
-                            <div class="list-group-item">Third Floor 1</div>
-                            <div class="list-group-item">Third Floor 2</div>
-                            <div class="list-group-item">Third Floor 3</div>
-                            <div class="list-group-item">Fourth Floor 1</div>
-                            <div class="list-group-item">Fourth Floor 2</div>
-                            <div class="list-group-item">Fourth Floor 3</div>
-                            <div class="list-group-item list-group-item-primary">Block C</div>
-                            <div class="list-group-item">Block C Ground Floor</div>
-                            <div class="list-group-item">Block C Third Floor 1</div>
-                            <div class="list-group-item">Block C Third Floor 2</div>
-                            <div class="list-group-item">Block C Third Floor 3</div>
-                            <div class="list-group-item">Block C Third Floor 4</div>
-                            <div class="list-group-item list-group-item-primary">Block D</div>
-                            <div class="list-group-item">Block D</div>
-                            <div class="list-group-item list-group-item-primary">Block F</div>
-                            <div class="list-group-item">Block F 1</div>
-                            <div class="list-group-item">Block F 2</div>
-                            <div class="list-group-item list-group-item-primary">Block G</div>
-                            <div class="list-group-item">Block G Ground Floor (1)</div>
-                            <div class="list-group-item">Block G Ground Floor (2)</div>
-                            <div class="list-group-item">Block G Ground Floor (3)</div>
-                            <div class="list-group-item">Block G Ground Floor (4)</div>
-                            <div class="list-group-item">Block G Aras First Floor (1)</div>
-                            <div class="list-group-item">Block G Aras First Floor (2)</div>
-                            <div class="list-group-item">Block G Aras First Floor (3)</div>
-                            <div class="list-group-item">Block G Aras First Floor (4)</div>
-                            <div class="list-group-item">Block G Aras Aras Dua (1)</div>
-                            <div class="list-group-item">Block G Aras Aras Dua (2)</div>
-                            <div class="list-group-item list-group-item-primary">Block H</div>
-                            <div class="list-group-item">Block H</div>
-                            <div class="list-group-item list-group-item-primary">Block I</div>
-                            <div class="list-group-item">Block I 1</div>
-                            <div class="list-group-item">Block I 2</div>
-                            <div class="list-group-item list-group-item-primary">Block J</div>
-                            <div class="list-group-item">Block J Ground Floor (1) <span class="badge bg-danger float-end signal-badge">
-                                <i class="fa fa-wifi"></i> Low
-                            </span></div>
-                            <div class="list-group-item list-group-item-primary">Block K</div>
-                            <div class="list-group-item">Block K Ground Floor (1) <span class="badge bg-success float-end signal-badge">
-                                <i class="fa fa-wifi"></i> High
-                            </span></div>
-                            <div class="list-group-item">Auditorium 1 Block K</div>
-                            <div class="list-group-item">Auditorium 2 Block K</div>
-                            <div class="list-group-item">Block K Upper Floor</div>
-                            <div class="list-group-item list-group-item-primary">Block L</div>
-                            <div class="list-group-item">Block L Ground Floor (1)</div>
-                            <div class="list-group-item list-group-item-primary">Block M</div>
-                            <div class="list-group-item">Block M Ground Floor (1)</div>
-                            <div class="list-group-item">Block M Ground Floor 2</div>
-                            <div class="list-group-item">Block M Ground Floor 3</div>
-                            <div class="list-group-item">Block M Ground Floor 4</div>
-                            <div class="list-group-item">Block M Ground Floor 5</div>
-                            <div class="list-group-item">Block M Ground Floor 6</div>
-                            <div class="list-group-item">Block M Ground Floor 7</div>
-                            <div class="list-group-item">Block M Ground Floor 8</div>
-                            <div class="list-group-item">Block M Ground Floor 9</div>
-                            <div class="list-group-item">Cafeteria Block M</div>
-                            <div class="list-group-item">Block M Ground Floor 10</div>
-                            <div class="list-group-item">Block M Ground Floor 11</div>
-                            <div class="list-group-item">Block M Ground Floor 12</div>
-                            <div class="list-group-item">Block M Ground Floor 13</div>
-                            <div class="list-group-item">Block M Ground Floor 14</div>
-                            <div class="list-group-item">Block M Ground Floor 15</div>
-                            <div class="list-group-item">Clinic UiTM Block M (2)</div>
-                            <div class="list-group-item">Block M First Floor (1)</div>
-                            <div class="list-group-item">Block M First Floor (2)</div>
-                            <div class="list-group-item">Block M First Floor (3)</div>
-                            <div class="list-group-item">Block M First Floor (4)</div>
-                            <div class="list-group-item">Block M First Floor (5)</div>
-                            <div class="list-group-item">Block M First Floor (6)</div>
-                            <div class="list-group-item">Block M First Floor (7)</div>
-                            <div class="list-group-item">Block M Aras Satu (8)</div>
-                            <div class="list-group-item">Block M Aras Satu (9)</div>
-                            <div class="list-group-item">Block M First Floor (10)</div>
-                            <div class="list-group-item list-group-item-primary">Block N</div>
-                            <div class="list-group-item">Block N</div>
-                            <div class="list-group-item list-group-item-primary">Block P</div>
-                            <div class="list-group-item">Block P</div>
+                                </span></div>
+                            <div class="list-group-item">BILIK SEMINAR <span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block A First Floor 1 <span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block A First Floor 2 <span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block A Ground Floor 1 <span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block A Ground Floor 2 <span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block B First Floor 1 <span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block B First Floor 2 <span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block B First Floor 3<span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block B Fourth Floor 1<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block B Fourth Floor 2<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block B Fourth Floor 3<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block B Secd Floor 1<span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block B Secd Floor 2<span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block B Secd Floor 3<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block B Third Floor 1<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block B Third Floor 2<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block B Third Floor 3<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block C Ground Floor<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block C Third Floor 1<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block C Third Floor 2<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block C Third Floor 3<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block C Third Floor 4<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block D<span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block F 1<span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block F 2<span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block G Aras Aras Dua (1)<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block G Aras Aras Dua (2)<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block G Aras First Floor (1)<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block G Aras First Floor (2)<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block G Aras First Floor (3)<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block G Aras First Floor (4)<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block G Ground Floor (1)<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block G Ground Floor (2)<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block G Ground Floor (3)<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block G Ground Floor (4)<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block H<span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block I 1<span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block I 2<span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block J Ground Floor (1)<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block K Auditorium 1<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block K Auditorium 2<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block K Ground Floor (1)<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block K Upper Floor<span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block L Ground Floor (1)<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block M Aras Satu (8)<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block M Aras Satu (9)<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block M First Floor (1)<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block M First Floor (10)<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block M First Floor (2)<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block M First Floor (3)<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block M First Floor (4)<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block M First Floor (5)<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block M First Floor (6)<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block M First Floor (7)<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block M Ground Floor (1)<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block M Ground Floor 10<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block M Ground Floor 11<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block M Ground Floor 12<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block M Ground Floor 13<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block M Ground Floor 14<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block M Ground Floor 15<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block M Ground Floor 2<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block M Ground Floor 3<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block M Ground Floor 4<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block M Ground Floor 5<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block M Ground Floor 6<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block M Ground Floor 7<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block M Ground Floor 8<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block M Ground Floor 9<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block N<span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block P<span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Block Pentadbiran<span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Blok B tingkat 1 <span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Blok B tingkat 3 <span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Blok B tingkat 4 <span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Blok C (Pejabat AM BPF)<span class="badge bg-success float-end signal-badge">
+                                    <i class="fa fa-wifi"></i> High
+                                </span></div>
+                            <div class="list-group-item">Blok G (Depan pejabat ipsis) <span
+                                    class="badge bg-success float-end signal-badge">
+                                    <i class="fa fa-wifi"></i> High
+                                </span></div>
+                            <div class="list-group-item">Blok J (berdepan bengkel bata) <span
+                                    class="badge bg-danger float-end signal-badge">
+                                    <i class="fa fa-wifi"></i> Low
+                                </span></div>
+                            <div class="list-group-item">Blok J (Ruang legar) <span
+                                    class="badge bg-danger float-end signal-badge">
+                                    <i class="fa fa-wifi"></i> Low
+                                </span></div>
+                            <div class="list-group-item">Blok K (pejabat IT) <span
+                                    class="badge bg-success float-end signal-badge">
+                                    <i class="fa fa-wifi"></i> High
+                                </span></div>
+                            <div class="list-group-item">Blok K (Ruang legar bawah) <span
+                                    class="badge bg-success float-end signal-badge">
+                                    <i class="fa fa-wifi"></i> High
+                                </span></div>
+                            <div class="list-group-item">Cafeteria Block M<span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Clinic UiTM Block M (2)<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Dewan Jubli1<span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Dewan Jubli2<span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">DEWAN MAKAN GADING<span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Dewan Makan Gading 1<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Dewan Makan Gading 2<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Dewan Makan Mulu First Floor 1<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Dewan Makan Mulu First Floor 2<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Dewan Makan Mulu Ground Floor 1<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Dewan Makan Mulu Ground Floor 2<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">DICUSSION ROOM<span class="badge float-end signal-badge"
+                                    style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">HEP First Floor<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">HEP Ground Floor<span
+                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
+                                    <i class="fa fa-wifi"></i> Medium
+                                </span></div>
+                            <div class="list-group-item">Kantin Medan Jubli <span
+                                    class="badge bg-success float-end signal-badge">
+                                    <i class="fa fa-wifi"></i> High
+                                </span></div>
+                            <div class="list-group-item">POS POLIS BANTUAN PINTU UTAMA<span
+                                    class="badge bg-success float-end signal-badge">
+                                    <i class="fa fa-wifi"></i> High
+                                </span></div>
+                            <div class="list-group-item">POS POLIS BANTUAN PINTU DI KOLEJ MULU<span
+                                    class="badge bg-success float-end signal-badge">
+                                    <i class="fa fa-wifi"></i> High
+                                </span></div>
                         </div>
                     </div>
                 </div>
