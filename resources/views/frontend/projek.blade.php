@@ -23,7 +23,7 @@
                     aria-labelledby="headingSamarahanProjek" data-bs-parent="#projekAccordian">
                     <div class="accordion-body">
                         <div class="container">
-                            <h6 class="text-center mb-4">CADANGAN JADUAL GARIS MASA PROJEK MEMBUKA, MEMBEKAL,
+                            <h6 class="text-center mb-2">CADANGAN JADUAL GARIS MASA PROJEK MEMBUKA, MEMBEKAL,
                                 MENGHANTAR, MEMASANG DAN MENGUJILARI PERALATAN SERTA MENAIK TARAF SISTEM RANGKAIAN DI
                                 UNIVERSITI TEKNOLOGI MARA CAWANGAN SARAWAK, KAMPUS KOTA SAMARAHAN</h6>
                             <div class="table-responsive">
@@ -220,7 +220,7 @@
                             </div>
                         </div>
                         <div class="container mt-3">
-                            <h6 class="text-center mb-4">
+                            <h6 class="text-center mb-2">
                                 CADANGAN JADUAL GARIS MASA PROJEK PEMASANGAN DAN PENAMBAHBAIKAN RANGKAIAN
                                 KESALINGHUBUNGAN WI-FI DI INSTITUSI PENGAJIAN TINGGI AWAM (IPTA) OLEH MCMC DI UiTM
                                 CAWANGAN SARAWAK KAMPUS SAMARAHAN
@@ -339,7 +339,7 @@
                     aria-labelledby="headingSamarahan2Projek" data-bs-parent="#projekAccordian">
                     <div class="accordion-body">
                         <div class="container">
-                            <h6 class="text-center mb-4">CADANGAN JADUAL GARIS MASA PROJEK NAIK TARAF SISTEM RANGKAIAN
+                            <h6 class="text-center mb-2">CADANGAN JADUAL GARIS MASA PROJEK NAIK TARAF SISTEM RANGKAIAN
                                 TANPA WAYAR (WIFI) DI KAWASAN KOLEJ KEDIAMAN PELAJAR, GUNASAMA, AKADEMIK DAN PENTADBIRAN
                                 BAGI UITM CAWANGAN SARAWAK KAMPUS SAMARAHAN 2</h6>
                             <div class="table-responsive">
@@ -536,7 +536,7 @@
                             </div>
                         </div>
                         <div class="container mt-3">
-                            <h6 class="text-center mb-4">
+                            <h6 class="text-center mb-2">
                                 CADANGAN JADUAL GARIS MASA PROJEK PEMASANGAN DAN PENAMBAHBAIKAN RANGKAIAN
                                 KESALINGHUBUNGAN WI-FI DI INSTITUSI PENGAJIAN TINGGI AWAM (IPTA) OLEH MCMC DI UiTM
                                 CAWANGAN SARAWAK KAMPUS SAMARAHAN 2
