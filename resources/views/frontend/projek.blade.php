@@ -23,7 +23,9 @@
                     aria-labelledby="headingSamarahanProjek" data-bs-parent="#projekAccordian">
                     <div class="accordion-body">
                         <div class="container">
-                            <h6 class="text-center mb-4">CADANGAN JADUAL GARIS MASA PROJEK MEMBUKA, MEMBEKAL, MENGHANTAR, MEMASANG DAN MENGUJILARI PERALATAN SERTA MENAIK TARAF SISTEM RANGKAIAN DI UNIVERSITI TEKNOLOGI MARA CAWANGAN SARAWAK, KAMPUS KOTA SAMARAHAN</h6>
+                            <h6 class="text-center mb-4">CADANGAN JADUAL GARIS MASA PROJEK MEMBUKA, MEMBEKAL,
+                                MENGHANTAR, MEMASANG DAN MENGUJILARI PERALATAN SERTA MENAIK TARAF SISTEM RANGKAIAN DI
+                                UNIVERSITI TEKNOLOGI MARA CAWANGAN SARAWAK, KAMPUS KOTA SAMARAHAN</h6>
                             <div class="table-responsive">
                                 <table class="table table-sm table-striped table-hover"
                                     style="border-collapse: collapse;">
@@ -213,6 +215,109 @@
                                         <td style="border-bottom: 1px solid #dee2e6;"></td>
                                         <td style="border-right: 1px solid #dee2e6; border-bottom: 1px solid #dee2e6;">
                                         </td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
+                        <div class="container mt-3">
+                            <h6 class="text-center mb-4">
+                                CADANGAN JADUAL GARIS MASA PROJEK PEMASANGAN DAN PENAMBAHBAIKAN RANGKAIAN
+                                KESALINGHUBUNGAN WI-FI DI INSTITUSI PENGAJIAN TINGGI AWAM (IPTA) OLEH MCMC DI UiTM
+                                CAWANGAN SARAWAK KAMPUS SAMARAHAN
+                            </h6>
+                            <div class="table-responsive">
+                                <table class="table table-sm table-striped table-hover"
+                                    style="border-collapse: collapse;">
+
+                                    <!-- Year Row -->
+                                    <tr class="font-weight-bold text-center" style="border: 1px solid #dee2e6;">
+                                        <td
+                                            style="width: 20%; border: 1px solid #dee2e6; border-radius: 10px 0 0 0; background-color: #f8f9fa;">
+                                            &nbsp;</td>
+                                        <td colspan="12"
+                                            style="border: 1px solid #dee2e6; border-radius: 0 10px 0 0; background-color: #f8f9fa;">
+                                            2025</td>
+                                    </tr>
+
+                                    <!-- Month Row -->
+                                    <tr class="font-weight-bold text-center" style="border: 1px solid #dee2e6;">
+                                        <td style="width: 20%; border: 1px solid #dee2e6; background-color: #f8f9fa;">
+                                            PHASE</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">MAC</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">APR</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">MEI</td>
+                                    </tr>
+
+                                    <!-- Aktiviti Rows -->
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">Projek Kick Off</td>
+                                        <td style="background-color: #007bff;" data-bs-toggle="tooltip"
+                                            title="20/3/2025"></td>
+                                        <td></td>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">Technical Session UiTM</td>
+                                        <td style="background-color: #6610f2;" data-bs-toggle="tooltip"
+                                            title="24/3/2025"></td>
+                                        <td></td>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">Technical Approval UiTM</td>
+                                        <td style="background-color: #20c997;" data-bs-toggle="tooltip"
+                                            title="30/3/2025"></td>
+                                        <td></td>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">Site Survey</td>
+                                        <td style="background-color: #fd7e14;" data-bs-toggle="tooltip"
+                                            title="30/3/2025"></td>
+                                        <td></td>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">IW Installation</td>
+                                        <td></td>
+                                        <td style="background-color: #17a2b8;" data-bs-toggle="tooltip"
+                                            title="16/4/2025"></td>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">Servive Commissioning</td>
+                                        <td></td>
+                                        <td style="background-color: #ffc107;" data-bs-toggle="tooltip"
+                                            title="30/4/2025"></td>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">UAT</td>
+                                        <td></td>
+                                        <td></td>
+                                        <td style="background-color: #dc3545;" data-bs-toggle="tooltip"
+                                            title="1/5/2025"></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">COA</td>
+                                        <td></td>
+                                        <td></td>
+                                        <td style="background-color: #6f42c1;" data-bs-toggle="tooltip"
+                                            title="9/5/2025"></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">Handover to Operation</td>
+                                        <td></td>
+                                        <td></td>
+                                        <td style="background-color: #28a745;" data-bs-toggle="tooltip"
+                                            title="11/5/2025"></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">Equipment Installation</td>
+                                        <td></td>
+                                        <td></td>
+                                        <td style="background-color: #343a40;" data-bs-toggle="tooltip"
+                                            title="30/5/2025"></td>
                                     </tr>
                                 </table>
                             </div>
@@ -426,6 +531,109 @@
                                         <td style="border-bottom: 1px solid #dee2e6;"></td>
                                         <td style="border-right: 1px solid #dee2e6; border-bottom: 1px solid #dee2e6;">
                                         </td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
+                        <div class="container mt-3">
+                            <h6 class="text-center mb-4">
+                                CADANGAN JADUAL GARIS MASA PROJEK PEMASANGAN DAN PENAMBAHBAIKAN RANGKAIAN
+                                KESALINGHUBUNGAN WI-FI DI INSTITUSI PENGAJIAN TINGGI AWAM (IPTA) OLEH MCMC DI UiTM
+                                CAWANGAN SARAWAK KAMPUS SAMARAHAN 2
+                            </h6>
+                            <div class="table-responsive">
+                                <table class="table table-sm table-striped table-hover"
+                                    style="border-collapse: collapse;">
+
+                                    <!-- Year Row -->
+                                    <tr class="font-weight-bold text-center" style="border: 1px solid #dee2e6;">
+                                        <td
+                                            style="width: 20%; border: 1px solid #dee2e6; border-radius: 10px 0 0 0; background-color: #f8f9fa;">
+                                            &nbsp;</td>
+                                        <td colspan="12"
+                                            style="border: 1px solid #dee2e6; border-radius: 0 10px 0 0; background-color: #f8f9fa;">
+                                            2025</td>
+                                    </tr>
+
+                                    <!-- Month Row -->
+                                    <tr class="font-weight-bold text-center" style="border: 1px solid #dee2e6;">
+                                        <td style="width: 20%; border: 1px solid #dee2e6; background-color: #f8f9fa;">
+                                            PHASE</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">MAC</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">APR</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">MEI</td>
+                                    </tr>
+
+                                    <!-- Aktiviti Rows -->
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">Projek Kick Off</td>
+                                        <td style="background-color: #007bff;" data-bs-toggle="tooltip"
+                                            title="20/3/2025"></td>
+                                        <td></td>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">Technical Session UiTM</td>
+                                        <td style="background-color: #6610f2;" data-bs-toggle="tooltip"
+                                            title="24/3/2025"></td>
+                                        <td></td>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">Technical Approval UiTM</td>
+                                        <td style="background-color: #20c997;" data-bs-toggle="tooltip"
+                                            title="30/3/2025"></td>
+                                        <td></td>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">Site Survey</td>
+                                        <td style="background-color: #fd7e14;" data-bs-toggle="tooltip"
+                                            title="30/3/2025"></td>
+                                        <td></td>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">IW Installation</td>
+                                        <td></td>
+                                        <td style="background-color: #17a2b8;" data-bs-toggle="tooltip"
+                                            title="16/4/2025"></td>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">Servive Commissioning</td>
+                                        <td></td>
+                                        <td style="background-color: #ffc107;" data-bs-toggle="tooltip"
+                                            title="30/4/2025"></td>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">UAT</td>
+                                        <td></td>
+                                        <td></td>
+                                        <td style="background-color: #dc3545;" data-bs-toggle="tooltip"
+                                            title="1/5/2025"></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">COA</td>
+                                        <td></td>
+                                        <td></td>
+                                        <td style="background-color: #6f42c1;" data-bs-toggle="tooltip"
+                                            title="9/5/2025"></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">Handover to Operation</td>
+                                        <td></td>
+                                        <td></td>
+                                        <td style="background-color: #28a745;" data-bs-toggle="tooltip"
+                                            title="11/5/2025"></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border: 1px solid #dee2e6;">Equipment Installation</td>
+                                        <td></td>
+                                        <td></td>
+                                        <td style="background-color: #343a40;" data-bs-toggle="tooltip"
+                                            title="30/5/2025"></td>
                                     </tr>
                                 </table>
                             </div>
