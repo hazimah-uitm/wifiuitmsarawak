@@ -754,59 +754,59 @@
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">bilik mesy. pentadbiran, aras 2<span
+                            <div class="list-group-item text-capitalize">bilik mesyuarat pentadbiran, aras 2<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">bilik mesy. hea, aras 1<span
+                            <div class="list-group-item text-capitalize">bilik mesyuarat HEA, aras 1<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">ruang kaunter hea, aras 1<span
+                            <div class="list-group-item text-capitalize">ruang kaunter HEA, aras 1<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">koridor , aras 1<span
+                            <div class="list-group-item text-capitalize">koridor, aras 1<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">bilik mesy. hep, aras 1<span
+                            <div class="list-group-item text-capitalize">bilik mesyuarat HEP, aras 1<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">bilik mesy. perolehan, aras 1<span
+                            <div class="list-group-item text-capitalize">bilik mesyuarat perolehan, aras 1<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">bilik mesy. infrastruktur, aras 1<span
+                            <div class="list-group-item text-capitalize">bilik mesyuarat infrastruktur, aras 1<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">ptar aras 1 (01/03)<span
+                            <div class="list-group-item text-capitalize">PTAR aras 1 (01/03)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">ptar aras 1 (02/03)<span
+                            <div class="list-group-item text-capitalize">PTAR aras 1 (02/03)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">ptar aras 1, bilik 24 jam<span
+                            <div class="list-group-item text-capitalize">PTAR aras 1, bilik 24 jam<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">ptar aras 2 (01/02)<span
+                            <div class="list-group-item text-capitalize">PTAR aras 2 (01/02)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">ptar aras 2 (02/02)<span
+                            <div class="list-group-item text-capitalize">PTAR aras 2 (02/02)<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">masmed bilik mesy<span
+                            <div class="list-group-item text-capitalize">MASMED bilik mesy<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
-                            <div class="list-group-item text-capitalize">masmed ruang pejabat<span
+                            <div class="list-group-item text-capitalize">MASMED ruang pejabat<span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)">
                                     <i class="fa fa-wifi"></i> medium
                                 </span></div>
