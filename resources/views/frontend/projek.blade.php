@@ -25,7 +25,7 @@
                         <div class="container">
                             <h6 class="text-center mb-2">CADANGAN JADUAL GARIS MASA PROJEK MEMBUKA, MEMBEKAL,
                                 MENGHANTAR, MEMASANG DAN MENGUJILARI PERALATAN SERTA MENAIK TARAF SISTEM RANGKAIAN DI
-                                UNIVERSITI TEKNOLOGI MARA CAWANGAN SARAWAK, KAMPUS KOTA SAMARAHAN</h6>
+                                UNIVERSITI TEKNOLOGI MARA CAWANGAN SARAWAK KAMPUS SAMARAHAN</h6>
                             <div class="table-responsive">
                                 <table class="table table-sm table-striped table-hover"
                                     style="border-collapse: collapse;">
