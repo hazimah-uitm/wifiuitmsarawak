@@ -65,7 +65,7 @@
                                         <span class="tooltipStatus" data-bs-toggle="tooltip" data-bs-placement="right"
                                             title="▪ Pejabat
 ▪ Lobby/Foyer
-▪ Bilik Mesyuarat">Blok Pentadbiran</span>
+▪ Bilik Mesyuarat">Bangunan Pentadbiran</span>
                                         <span>65%</span>
                                     </div>
                                     <div class="progress">
@@ -144,7 +144,7 @@
                                             data-bs-placement="right"
                                             title="▪ Pejabat
 ▪ Lobby/Foyer
-▪ Bilik Mesyuarat">Blok Pentadbiran</span>
+▪ Bilik Mesyuarat">Bangunan Pentadbiran</span>
                                         <span>59%</span>
                                     </div>
                                     <div class="progress">
@@ -222,7 +222,7 @@
                                             data-bs-placement="right"
                                             title="▪ Pejabat
 ▪ Lobby/Foyer
-▪ Bilik Mesyuarat">Blok Pentadbiran</span>
+▪ Bilik Mesyuarat">Bangunan Pentadbiran</span>
                                         <span>100%</span>
                                     </div>
                                     <div class="progress">
