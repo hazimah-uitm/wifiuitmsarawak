@@ -63,10 +63,11 @@
                 <ul>
                     <li><a href="#utama" class="active">Utama</a></li>
                     <li><a href="#lokasi">Lokasi</a></li>
+                    <li><a href="#panduan">Panduan</a></li>
+                    <li><a href="#aduan">Aduan</a></li>
                     <li><a href="#status">Status</a></li>
                     <li><a href="#pelaninduk">Pelan Induk</a></li>
                     <li><a href="#projek">Projek</a></li>
-                    <li><a href="#panduan">Panduan</a></li>
                     {{-- <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
               <li><a href="#">Dropdown 1</a></li>
@@ -84,7 +85,6 @@
               <li><a href="#">Dropdown 4</a></li>
             </ul>
           </li> --}}
-                    <li><a href="#aduan">Aduan</a></li>
                     <li><a href="#contact">Hubungi</a></li>
                 </ul>
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
@@ -146,6 +146,14 @@
         <!-- Lokasi Section -->
         @include('frontend.lokasi')
         <!-- /Lokasi Section -->
+        
+        <!-- panduan Section -->
+        @include('frontend.panduan')
+        <!-- /panduan Section -->
+
+        <!-- Faq Section -->
+        @include('frontend.faq')
+        <!-- /Faq Section -->
 
         <!-- Status Section -->
         @include('frontend.status')
@@ -208,14 +216,6 @@
         <!-- Projek Section -->
         @include('frontend.projek')
         <!-- /Projek Section -->
-
-        <!-- panduan Section -->
-        @include('frontend.panduan')
-        <!-- /panduan Section -->
-
-        <!-- Faq Section -->
-        @include('frontend.faq')
-        <!-- /Faq Section -->
 
         <!-- Contact Section -->
         @include('frontend.hubungi')
