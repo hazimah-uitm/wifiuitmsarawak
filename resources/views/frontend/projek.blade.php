@@ -25,7 +25,7 @@
                         <div class="container">
                             <div class="bg-light shadow-sm p-2 mb-3 rounded">
                                 <h5 class="fw-semibold text-uppercase text-center mb-1" style="color: #03244c;">
-                                    Menaiktaraf Sistem Rangkaian Tanpa Wayar (Wifi) Bagi Kawasan Gunasama, Kawasan
+                                    PROJEK Menaiktaraf Sistem Rangkaian Tanpa Wayar (Wifi) Bagi Kawasan Gunasama, Kawasan
                                     Akademik Dan Kawasan Pentadbiran di Universiti Teknologi MARA Cawangan Sarawak,
                                     Kampus Samarahan
                                 </h5>
@@ -37,123 +37,99 @@
                             </div>
 
                             <div class="table-responsive">
-                                <table class="table table-sm table-striped table-hover"
-                                    style="border-collapse: collapse;">
+                                <table class="table table-sm table-striped table-hover" style="border-collapse: collapse;">
                                     <!-- Tahun Row -->
                                     <tr class="font-weight-bold text-center" style="border: 1px solid #dee2e6;">
-                                        <td style="width: 20%; border: 1px solid #dee2e6; background-color: #d6dbdf;">
-                                            &nbsp;</td>
-                                        <td colspan="11"
-                                            style="border: 1px solid #dee2e6; background-color: #d6dbdf;">
-                                            2025</td>
+                                        <td style="width: 20%; border: 1px solid #dee2e6; background-color: #d6dbdf;">&nbsp;</td>
+                                        <td colspan="7" style="border: 1px solid #dee2e6; background-color: #d6dbdf;">2025</td>
                                     </tr>
-
+                            
                                     <!-- Bulan Row -->
                                     <tr class="font-weight-bold text-center" style="border: 1px solid #dee2e6;">
                                         <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">Fasa</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">FEB</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">MAC</td>
                                         <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">APR</td>
                                         <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">MEI</td>
                                         <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">JUN</td>
                                         <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">JUL</td>
                                         <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">OGOS</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">SEPT</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">OKT</td>
                                         <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">NOV</td>
                                         <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">DIS</td>
                                     </tr>
-
+                            
                                     <!-- Rows Fasa -->
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">Pelawaan</td>
-                                        <td style="background-color: #6c757d;" data-bs-toggle="tooltip"
-                                            title="Februari 2025"></td>
-                                        <td style="background-color: #6c757d;" data-bs-toggle="tooltip"
-                                            title="Mac 2025"></td>
-                                        <td colspan="8" style="border: none;"></td>
+                                        <td style="background-color: #6c757d;" data-bs-toggle="tooltip" title="April 2025"></td>
+                                        <td style="background-color: #6c757d;" data-bs-toggle="tooltip" title="Mei 2025"></td>
+                                        <td colspan="4" style="border: none;"></td>
                                         <td style="border-right: 1px solid #dee2e6;"></td>
                                     </tr>
-
+                            
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">Analisa Tender</td>
-                                        <td colspan="1" style="border: none;"></td>
-                                        <td style="background-color: #e83e8c;" data-bs-toggle="tooltip"
-                                            title="Mac 2025"></td>
-                                        <td style="background-color: #e83e8c;" data-bs-toggle="tooltip"
-                                            title="April 2025"></td>
-                                        <td style="background-color: #e83e8c;" data-bs-toggle="tooltip"
-                                            title="Mei 2025"></td>
-                                        <td colspan="6" style="border: none;"></td>
+                                        <td colspan="2" style="border: none;"></td>
+                                        <td style="background-color: #e83e8c;" data-bs-toggle="tooltip" title="Jun 2025"></td>
+                                        <td style="background-color: #e83e8c;" data-bs-toggle="tooltip" title="Julai 2025"></td>
+                                        <td colspan="2" style="border: none;"></td>
                                         <td style="border-right: 1px solid #dee2e6;"></td>
                                     </tr>
-
+                            
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">Pengurusan Tawaran & Kontrak</td>
-                                        <td colspan="4" style="border: none;"></td>
-                                        <td style="background-color: #6610f2;" data-bs-toggle="tooltip"
-                                            title="Jun 2025"></td>
-                                        <td colspan="5" style="border: none;"></td>
+                                        <td colspan="3" style="border: none;"></td>
+                                        <td style="background-color: #6610f2;" data-bs-toggle="tooltip" title="Julai 2025"></td>
+                                        <td colspan="2" style="border: none;"></td>
                                         <td style="border-right: 1px solid #dee2e6;"></td>
                                     </tr>
-
+                            
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">Pesanan Tempatan</td>
-                                        <td colspan="4" style="border: none;"></td>
-                                        <td style="background-color: #20c997;" data-bs-toggle="tooltip"
-                                            title="Jun 2025"></td>
-                                        <td colspan="5" style="border: none;"></td>
+                                        <td colspan="3" style="border: none;"></td>
+                                        <td style="background-color: #20c997;" data-bs-toggle="tooltip" title="Julai 2025"></td>
+                                        <td colspan="2" style="border: none;"></td>
                                         <td style="border-right: 1px solid #dee2e6;"></td>
                                     </tr>
-
+                            
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">Pentauliahan kepada Syarikat</td>
-                                        <td colspan="4" style="border: none;"></td>
-                                        <td style="background-color: #fdc107;" title="Jun 2025"></td>
-                                        <td colspan="5" style="border: none;"></td>
+                                        <td colspan="3" style="border: none;"></td>
+                                        <td style="background-color: #fdc107;" title="Julai 2025"></td>
+                                        <td colspan="2" style="border: none;"></td>
                                         <td style="border-right: 1px solid #dee2e6;"></td>
                                     </tr>
-
+                            
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">Kick-off / Pelaksanaan Projek</td>
-                                        <td colspan="4" style="border: none;"></td>
-                                        <td style="background-color: #198754;" data-bs-toggle="tooltip"
-                                            title="Jun 2025"></td>
-                                        <td style="background-color: #198754;" data-bs-toggle="tooltip"
-                                            title="Julai 2025"></td>
-                                        <td style="background-color: #198754;" data-bs-toggle="tooltip"
-                                            title="Ogos 2025"></td>
-                                        <td style="background-color: #198754;" data-bs-toggle="tooltip"
-                                            title="September 2025"></td>
-                                        <td style="background-color: #198754;" data-bs-toggle="tooltip"
-                                            title="Oktober 2025"></td>
-                                        <td style="background-color: #198754;" data-bs-toggle="tooltip"
-                                            title="November 2025"></td>
-                                        <td style="background-color: #198754; border-right: 1px solid #dee2e6;"
-                                            data-bs-toggle="tooltip" title="Disember 2025"></td>
+                                        <td colspan="3" style="border: none;"></td>
+                                        <td style="background-color: #198754;" data-bs-toggle="tooltip" title="Julai 2025"></td>
+                                        <td style="background-color: #198754;" data-bs-toggle="tooltip" title="Ogos 2025"></td>
+                                        <td style="background-color: #198754;" data-bs-toggle="tooltip" title="November 2025"></td>
+                                        <td style="background-color: #198754; border-right: 1px solid #dee2e6;" data-bs-toggle="tooltip" title="Disember 2025"></td>
                                     </tr>
-
+                            
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">UAT & Laporan</td>
-                                        <td colspan="10" style="border: none;"></td>
-                                        <td style="background-color: #d63384; border-right: 1px solid #dee2e6;"
-                                            data-bs-toggle="tooltip" title="Disember 2025"></td>
+                                        <td colspan="6" style="border: none;"></td>
+                                        <td style="background-color: #d63384; border-right: 1px solid #dee2e6;" data-bs-toggle="tooltip" title="Disember 2025"></td>
                                     </tr>
-
+                            
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">Projek Selesai</td>
-                                        <td colspan="10" style="border-bottom: 1px solid #dee2e6;"></td>
-                                        <td style="background-color: #0d6efd; border-bottom: 1px solid #dee2e6; border-right: 1px solid #dee2e6;"
-                                            data-bs-toggle="tooltip" title="Disember 2025"></td>
+                                        <td colspan="6" style="border-bottom: 1px solid #dee2e6;"></td>
+                                        <td style="background-color: #0d6efd; border-bottom: 1px solid #dee2e6; border-right: 1px solid #dee2e6;" data-bs-toggle="tooltip"
+                                            title="Disember 2025"></td>
                                     </tr>
                                 </table>
                             </div>
+                            
                         </div>
                         <div class="container mt-3">
                             <div class="bg-light shadow-sm p-2 mb-3 rounded">
                                 <h5 class="fw-semibold text-center mb-1" style="color: #03244c;">
-                                    CADANGAN PEMASANGAN DAN PENAMBAHBAIKAN RANGKAIAN
-                                    KESALINGHUBUNGAN WI-FI DI INSTITUSI PENGAJIAN TINGGI AWAM (IPTA) OLEH MCMC DI UiTM
+                                    PROJEK PEMASANGAN DAN
+PENAMBAHBAIKAN RANGKAIAN KESALINGHUBUNGAN WI-Fl DI
+INSITUSI PENGAJIAN TINGGI AWAM (IPTA) OLEH SURUHANJAYA
+KOMUNIKASI DAN MULTIMEDIA MALAYSIA (MCMC) DI UiTM
                                     CAWANGAN SARAWAK KAMPUS SAMARAHAN
                                 </h5>
 
@@ -277,7 +253,7 @@
                         <div class="container">
                             <div class="bg-light shadow-sm p-2 mb-3 rounded">
                                 <h5 class="fw-semibold text-center mb-1" style="color: #03244c;">
-                                    MENAIKTARAF SISTEM RANGKAIAN
+                                    PROJEK MENAIKTARAF SISTEM RANGKAIAN
                                     TANPA WAYAR (WIFI) DI KAWASAN KOLEJ KEDIAMAN PELAJAR, GUNASAMA, AKADEMIK DAN
                                     PENTADBIRAN
                                     BAGI UiTM CAWANGAN SARAWAK KAMPUS SAMARAHAN 2
@@ -425,8 +401,10 @@
                         <div class="container mt-3">
                             <div class="bg-light shadow-sm p-2 mb-3 rounded">
                                 <h5 class="fw-semibold text-center mb-1" style="color: #03244c;">
-                                    CADANGAN PEMASANGAN DAN PENAMBAHBAIKAN RANGKAIAN
-                                    KESALINGHUBUNGAN WI-FI DI INSTITUSI PENGAJIAN TINGGI AWAM (IPTA) OLEH MCMC DI UiTM
+                                    PROJEK PEMASANGAN DAN
+PENAMBAHBAIKAN RANGKAIAN KESALINGHUBUNGAN WI-Fl DI
+INSITUSI PENGAJIAN TINGGI AWAM (IPTA) OLEH SURUHANJAYA
+KOMUNIKASI DAN MULTIMEDIA MALAYSIA (MCMC) DI UiTM
                                     CAWANGAN SARAWAK KAMPUS SAMARAHAN 2
                                 </h5>
 
