@@ -65,10 +65,6 @@
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)"><i
                                         class="fa fa-wifi"></i> Medium</span>
                             </div>
-                            <div class="list-group-item text-capitalize">Bilik Seminar <span
-                                    class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)"><i
-                                        class="fa fa-wifi"></i> Medium</span>
-                            </div>
                             <div class="list-group-item text-capitalize">Block A First Floor 1 <span
                                     class="badge float-end signal-badge" style="background-color: rgb(255, 174, 0)"><i
                                         class="fa fa-wifi"></i> Medium</span></div>
