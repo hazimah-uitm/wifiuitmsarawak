@@ -47,9 +47,8 @@
                         <div class="text-center mb-3"><i class="bi bi-mortarboard-fill text-success fs-2"></i></div>
                         <h6 class="fw-bold text-success text-center">UiTM WiFi STUDENT</h6>
                         <ul class="small ps-3">
-                            <li>Sila log masuk WiFi menggunakan ID portal pelajar (iStudent).</li>
+                            <li>Sila log masuk WiFi menggunakan ID portal pelajar (iStudent Portal).</li>
                             <li>Tiada pengaktifan diperlukan.</li>
-                            <li>Akses automatik apabila berjaya log masuk.</li>
                         </ul>
                     </div>
                 </div>
@@ -65,7 +64,9 @@
                         <ul class="small ps-3">
                             <li>Hubungi pentadbir rangkaian.</li>
                             <li>Telefon:
-                                <br>03-55442213 / 55211774 / 55442173
+                                <br>082-677357 (Kampus Samarahan)
+                                <br>082-678206 (Kampus Samarahan 2)
+                                <br>084-876012 (Kampus Mukah)
                             </li>
                             <li>Emel:
                                 <button class="btn btn-warning btn-sm p-2 mt-2"
