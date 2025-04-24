@@ -23,129 +23,165 @@
                     aria-labelledby="headingSamarahanProjek" data-bs-parent="#projekAccordian">
                     <div class="accordion-body">
                         <div class="container">
-                            <h6 class="text-center mb-2">CADANGAN JADUAL GARIS MASA PROJEK MEMBUKA, MEMBEKAL,
-                                MENGHANTAR, MEMASANG DAN MENGUJILARI PERALATAN SERTA MENAIK TARAF SISTEM RANGKAIAN DI
-                                UNIVERSITI TEKNOLOGI MARA CAWANGAN SARAWAK KAMPUS SAMARAHAN</h6>
+                            <div class="bg-light shadow-sm p-2 mb-3 rounded">
+                                <h5 class="fw-semibold text-uppercase text-center mb-1" style="color: #03244c;">
+                                    Menaiktaraf Sistem Rangkaian Tanpa Wayar (Wifi) Bagi Kawasan Gunasama, Kawasan
+                                    Akademik Dan Kawasan Pentadbiran di Universiti Teknologi MARA Cawangan Sarawak,
+                                    Kampus Samarahan
+                                </h5>
+
+                                <h6 class="text-uppercase text-center pt-1 mt-1 mb-0"
+                                    style="letter-spacing: 0.5px; border-top: 2px solid #03244c; color:#1c2833; font-weight: 550; ">
+                                    Cadangan Jadual Garis Masa Projek
+                                </h6>
+                            </div>
+
                             <div class="table-responsive">
                                 <table class="table table-sm table-striped table-hover"
                                     style="border-collapse: collapse;">
                                     <!-- Tahun Row -->
                                     <tr class="font-weight-bold text-center" style="border: 1px solid #dee2e6;">
-                                        <td
-                                            style="width: 20%; border: 1px solid #dee2e6; border-radius: 10px 0 0 0; background-color: #f8f9fa;">
+                                        <td style="width: 20%; border: 1px solid #dee2e6; background-color: #d6dbdf;">
                                             &nbsp;</td>
                                         <td colspan="11"
-                                            style="border: 1px solid #dee2e6; border-radius: 0 10px 0 0; background-color: #f8f9fa;">
+                                            style="border: 1px solid #dee2e6; background-color: #d6dbdf;">
                                             2025</td>
                                     </tr>
 
                                     <!-- Bulan Row -->
                                     <tr class="font-weight-bold text-center" style="border: 1px solid #dee2e6;">
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">Fasa</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">FEB</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">MAC</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">APR</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">MEI</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">JUN</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">JUL</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">OGOS</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">SEPT</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">OKT</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">NOV</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">DIS</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">Fasa</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">FEB</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">MAC</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">APR</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">MEI</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">JUN</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">JUL</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">OGOS</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">SEPT</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">OKT</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">NOV</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">DIS</td>
                                     </tr>
 
                                     <!-- Rows Fasa -->
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">Pelawaan</td>
-                                        <td style="background-color: #6c757d;" data-bs-toggle="tooltip" title="Februari 2025"></td>
-                                        <td style="background-color: #6c757d;" data-bs-toggle="tooltip" title="Mac 2025"></td>
-                                        <td colspan="9" style="border: none;"></td>
+                                        <td style="background-color: #6c757d;" data-bs-toggle="tooltip"
+                                            title="Februari 2025"></td>
+                                        <td style="background-color: #6c757d;" data-bs-toggle="tooltip"
+                                            title="Mac 2025"></td>
+                                        <td colspan="8" style="border: none;"></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
                                     </tr>
 
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">Analisa Tender</td>
                                         <td colspan="1" style="border: none;"></td>
-                                        <td style="background-color: #e83e8c;" data-bs-toggle="tooltip" title="Mac 2025"></td>
-                                        <td style="background-color: #e83e8c;" data-bs-toggle="tooltip" title="April 2025"></td>
-                                        <td style="background-color: #e83e8c;" data-bs-toggle="tooltip" title="Mei 2025"></td>
-                                        <td colspan="7" style="border: none;"></td>
+                                        <td style="background-color: #e83e8c;" data-bs-toggle="tooltip"
+                                            title="Mac 2025"></td>
+                                        <td style="background-color: #e83e8c;" data-bs-toggle="tooltip"
+                                            title="April 2025"></td>
+                                        <td style="background-color: #e83e8c;" data-bs-toggle="tooltip"
+                                            title="Mei 2025"></td>
+                                        <td colspan="6" style="border: none;"></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
                                     </tr>
 
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">Pengurusan Tawaran & Kontrak</td>
                                         <td colspan="4" style="border: none;"></td>
-                                        <td style="background-color: #6610f2;" data-bs-toggle="tooltip" title="Jun 2025"></td>
-                                        <td colspan="6" style="border: none;"></td>
+                                        <td style="background-color: #6610f2;" data-bs-toggle="tooltip"
+                                            title="Jun 2025"></td>
+                                        <td colspan="5" style="border: none;"></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
                                     </tr>
 
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">Pesanan Tempatan</td>
                                         <td colspan="4" style="border: none;"></td>
-                                        <td style="background-color: #20c997;" data-bs-toggle="tooltip" title="Jun 2025"></td>
-                                        <td colspan="6" style="border: none;"></td>
+                                        <td style="background-color: #20c997;" data-bs-toggle="tooltip"
+                                            title="Jun 2025"></td>
+                                        <td colspan="5" style="border: none;"></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
                                     </tr>
 
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">Pentauliahan kepada Syarikat</td>
                                         <td colspan="4" style="border: none;"></td>
                                         <td style="background-color: #fdc107;" title="Jun 2025"></td>
-                                        <td colspan="6" style="border: none;"></td>
+                                        <td colspan="5" style="border: none;"></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
                                     </tr>
 
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">Kick-off / Pelaksanaan Projek</td>
                                         <td colspan="4" style="border: none;"></td>
-                                        <td style="background-color: #198754;" data-bs-toggle="tooltip" title="Jun 2025"></td>
-                                        <td style="background-color: #198754;" data-bs-toggle="tooltip" title="Julai 2025"></td>
-                                        <td style="background-color: #198754;" data-bs-toggle="tooltip" title="Ogos 2025"></td>
-                                        <td style="background-color: #198754;" data-bs-toggle="tooltip" title="September 2025"></td>
-                                        <td style="background-color: #198754;" data-bs-toggle="tooltip" title="Oktober 2025"></td>
-                                        <td style="background-color: #198754;" data-bs-toggle="tooltip" title="November 2025"></td>
-                                        <td style="background-color: #198754;" data-bs-toggle="tooltip" title="Disember 2025"></td>
+                                        <td style="background-color: #198754;" data-bs-toggle="tooltip"
+                                            title="Jun 2025"></td>
+                                        <td style="background-color: #198754;" data-bs-toggle="tooltip"
+                                            title="Julai 2025"></td>
+                                        <td style="background-color: #198754;" data-bs-toggle="tooltip"
+                                            title="Ogos 2025"></td>
+                                        <td style="background-color: #198754;" data-bs-toggle="tooltip"
+                                            title="September 2025"></td>
+                                        <td style="background-color: #198754;" data-bs-toggle="tooltip"
+                                            title="Oktober 2025"></td>
+                                        <td style="background-color: #198754;" data-bs-toggle="tooltip"
+                                            title="November 2025"></td>
+                                        <td style="background-color: #198754; border-right: 1px solid #dee2e6;"
+                                            data-bs-toggle="tooltip" title="Disember 2025"></td>
                                     </tr>
 
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">UAT & Laporan</td>
                                         <td colspan="10" style="border: none;"></td>
-                                        <td style="background-color: #d63384;" data-bs-toggle="tooltip" title="Disember 2025"></td>
+                                        <td style="background-color: #d63384; border-right: 1px solid #dee2e6;"
+                                            data-bs-toggle="tooltip" title="Disember 2025"></td>
                                     </tr>
 
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">Projek Selesai</td>
-                                        <td colspan="10" style="border: none;"></td>
-                                        <td style="background-color: #0d6efd;" data-bs-toggle="tooltip" title="Disember 2025"></td>
+                                        <td colspan="10" style="border-bottom: 1px solid #dee2e6;"></td>
+                                        <td style="background-color: #0d6efd; border-bottom: 1px solid #dee2e6; border-right: 1px solid #dee2e6;"
+                                            data-bs-toggle="tooltip" title="Disember 2025"></td>
                                     </tr>
                                 </table>
                             </div>
                         </div>
                         <div class="container mt-3">
-                            <h6 class="text-center mb-2">
-                                CADANGAN JADUAL GARIS MASA PROJEK PEMASANGAN DAN PENAMBAHBAIKAN RANGKAIAN
-                                KESALINGHUBUNGAN WI-FI DI INSTITUSI PENGAJIAN TINGGI AWAM (IPTA) OLEH MCMC DI UiTM
-                                CAWANGAN SARAWAK KAMPUS SAMARAHAN
-                            </h6>
+                            <div class="bg-light shadow-sm p-2 mb-3 rounded">
+                                <h5 class="fw-semibold text-center mb-1" style="color: #03244c;">
+                                    CADANGAN PEMASANGAN DAN PENAMBAHBAIKAN RANGKAIAN
+                                    KESALINGHUBUNGAN WI-FI DI INSTITUSI PENGAJIAN TINGGI AWAM (IPTA) OLEH MCMC DI UiTM
+                                    CAWANGAN SARAWAK KAMPUS SAMARAHAN
+                                </h5>
+
+                                <h6 class="text-uppercase text-center pt-1 mt-1 mb-0"
+                                    style="letter-spacing: 0.5px; border-top: 2px solid #03244c; color:#1c2833; font-weight: 550; ">
+                                    Cadangan Jadual Garis Masa Projek
+                                </h6>
+                            </div>
                             <div class="table-responsive">
                                 <table class="table table-sm table-striped table-hover"
                                     style="border-collapse: collapse;">
 
                                     <!-- Year Row -->
                                     <tr class="font-weight-bold text-center" style="border: 1px solid #dee2e6;">
-                                        <td
-                                            style="width: 20%; border: 1px solid #dee2e6; border-radius: 10px 0 0 0; background-color: #f8f9fa;">
+                                        <td style="width: 20%; border: 1px solid #dee2e6; background-color: #d6dbdf;">
                                             &nbsp;</td>
                                         <td colspan="12"
-                                            style="border: 1px solid #dee2e6; border-radius: 0 10px 0 0; background-color: #f8f9fa;">
+                                            style="border: 1px solid #dee2e6; background-color: #d6dbdf;">
                                             2025</td>
                                     </tr>
 
                                     <!-- Month Row -->
                                     <tr class="font-weight-bold text-center" style="border: 1px solid #dee2e6;">
-                                        <td style="width: 20%; border: 1px solid #dee2e6; background-color: #f8f9fa;">
+                                        <td style="width: 20%; border: 1px solid #dee2e6; background-color: #d6eaf8;">
                                             PHASE</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">MAC</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">APR</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">MEI</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">MAC</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">APR</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">MEI</td>
                                     </tr>
 
                                     <!-- Aktiviti Rows -->
@@ -154,70 +190,70 @@
                                         <td style="background-color: #007bff;" data-bs-toggle="tooltip"
                                             title="20/3/2025"></td>
                                         <td></td>
-                                        <td></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
                                     </tr>
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">Technical Session UiTM</td>
                                         <td style="background-color: #6610f2;" data-bs-toggle="tooltip"
                                             title="24/3/2025"></td>
                                         <td></td>
-                                        <td></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
                                     </tr>
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">Technical Approval UiTM</td>
                                         <td style="background-color: #20c997;" data-bs-toggle="tooltip"
                                             title="30/3/2025"></td>
                                         <td></td>
-                                        <td></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
                                     </tr>
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">Site Survey</td>
                                         <td style="background-color: #fd7e14;" data-bs-toggle="tooltip"
                                             title="30/3/2025"></td>
                                         <td></td>
-                                        <td></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
                                     </tr>
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">IW Installation</td>
                                         <td></td>
                                         <td style="background-color: #17a2b8;" data-bs-toggle="tooltip"
                                             title="16/4/2025"></td>
-                                        <td></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
                                     </tr>
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">Servive Commissioning</td>
                                         <td></td>
                                         <td style="background-color: #ffc107;" data-bs-toggle="tooltip"
                                             title="30/4/2025"></td>
-                                        <td></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
                                     </tr>
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">UAT</td>
                                         <td></td>
                                         <td></td>
-                                        <td style="background-color: #dc3545;" data-bs-toggle="tooltip"
-                                            title="1/5/2025"></td>
+                                        <td style="background-color: #dc3545; border-right: 1px solid #dee2e6;"
+                                            data-bs-toggle="tooltip" title="1/5/2025"></td>
                                     </tr>
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">COA</td>
                                         <td></td>
                                         <td></td>
-                                        <td style="background-color: #6f42c1;" data-bs-toggle="tooltip"
-                                            title="9/5/2025"></td>
+                                        <td style="background-color: #6f42c1; border-right: 1px solid #dee2e6;"
+                                            data-bs-toggle="tooltip" title="9/5/2025"></td>
                                     </tr>
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">Handover to Operation</td>
                                         <td></td>
                                         <td></td>
-                                        <td style="background-color: #28a745;" data-bs-toggle="tooltip"
-                                            title="11/5/2025"></td>
+                                        <td style="background-color: #28a745; border-right: 1px solid #dee2e6;"
+                                            data-bs-toggle="tooltip" title="11/5/2025"></td>
                                     </tr>
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">Equipment Installation</td>
                                         <td></td>
                                         <td></td>
-                                        <td style="background-color: #343a40;" data-bs-toggle="tooltip"
-                                            title="30/5/2025"></td>
+                                        <td style="background-color: #343a40; border-right: 1px solid #dee2e6;"
+                                            data-bs-toggle="tooltip" title="30/5/2025"></td>
                                     </tr>
                                 </table>
                             </div>
@@ -239,39 +275,48 @@
                     aria-labelledby="headingSamarahan2Projek" data-bs-parent="#projekAccordian">
                     <div class="accordion-body">
                         <div class="container">
-                            <h6 class="text-center mb-2">CADANGAN JADUAL GARIS MASA PROJEK NAIK TARAF SISTEM RANGKAIAN
-                                TANPA WAYAR (WIFI) DI KAWASAN KOLEJ KEDIAMAN PELAJAR, GUNASAMA, AKADEMIK DAN PENTADBIRAN
-                                BAGI UITM CAWANGAN SARAWAK KAMPUS SAMARAHAN 2</h6>
+                            <div class="bg-light shadow-sm p-2 mb-3 rounded">
+                                <h5 class="fw-semibold text-center mb-1" style="color: #03244c;">
+                                    MENAIKTARAF SISTEM RANGKAIAN
+                                    TANPA WAYAR (WIFI) DI KAWASAN KOLEJ KEDIAMAN PELAJAR, GUNASAMA, AKADEMIK DAN
+                                    PENTADBIRAN
+                                    BAGI UiTM CAWANGAN SARAWAK KAMPUS SAMARAHAN 2
+                                </h5>
+
+                                <h6 class="text-uppercase text-center pt-1 mt-1 mb-0"
+                                    style="letter-spacing: 0.5px; border-top: 2px solid #03244c; color:#1c2833; font-weight: 550; ">
+                                    Cadangan Jadual Garis Masa Projek
+                                </h6>
+                            </div>
                             <div class="table-responsive">
                                 <table class="table table-sm table-striped table-hover"
                                     style="border-collapse: collapse;">
                                     <!-- Tahun Row -->
                                     <tr class="font-weight-bold text-center" style="border: 1px solid #dee2e6;">
-                                        <td
-                                            style="width: 20%; border: 1px solid #dee2e6; border-radius: 10px 0 0 0; background-color: #f8f9fa;">
+                                        <td style="width: 20%; border: 1px solid #dee2e6; background-color: #d6dbdf;">
                                             &nbsp;</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">2024</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6dbdf;">2024</td>
                                         <td colspan="12"
-                                            style="border: 1px solid #dee2e6; border-radius: 0 10px 0 0; background-color: #f8f9fa;">
+                                            style="border: 1px solid #dee2e6; background-color: #d6dbdf;">
                                             2025</td>
                                     </tr>
 
                                     <!-- Bulan Row -->
-                                    <tr class="font-weight-bold text-center" style="border: 1px solid #dee2e6;">
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">Fasa</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">DIS</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">JAN</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">FEB</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">MAC</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">APR</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">MEI</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">JUN</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">JUL</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">OGOS</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">SEPT</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">OKT</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">NOV</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">DIS</td>
+                                    <tr class="font-weight-bold text-center" style="border: 1px solid #d6eaf8">
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">Fasa</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">DIS</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">JAN</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">FEB</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">MAC</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">APR</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">MEI</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">JUN</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">JUL</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">OGOS</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">SEPT</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">OKT</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">NOV</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">DIS</td>
                                     </tr>
                                     <!-- Fasa 1: Pelawaan -->
                                     <tr>
@@ -302,7 +347,8 @@
                                             title="Mac 2025"></td>
                                         <td style="background-color: #17a2b8;" data-bs-toggle="tooltip"
                                             title="April 2025"></td>
-                                        <td colspan="8" style="border: none;"></td>
+                                        <td colspan="7" style="border: none;"></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
                                     </tr>
 
                                     <!-- Fasa 3: Tawaran Kontrak -->
@@ -311,7 +357,8 @@
                                         <td colspan="5" style="border: none;"></td>
                                         <td style="background-color: #20c997;" data-bs-toggle="tooltip"
                                             title="Mei 2025"></td>
-                                        <td colspan="7" style="border: none;"></td>
+                                        <td colspan="6" style="border: none;"></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
                                     </tr>
 
                                     <!-- Fasa 4: Pesanan Tempatan -->
@@ -320,7 +367,8 @@
                                         <td colspan="5" style="border: none;"></td>
                                         <td style="background-color: #ffc107;" data-bs-toggle="tooltip"
                                             title="Mei 2025"></td>
-                                        <td colspan="7" style="border: none;"></td>
+                                        <td colspan="6" style="border: none;"></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
                                     </tr>
 
                                     <!-- Fasa 5: Pentauliahan -->
@@ -329,7 +377,8 @@
                                         <td colspan="5" style="border: none;"></td>
                                         <td style="background-color: #6f42c1;" data-bs-toggle="tooltip"
                                             title="Mei 2025"></td>
-                                        <td colspan="7" style="border: none;"></td>
+                                        <td colspan="6" style="border: none;"></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
                                     </tr>
 
                                     <!-- Fasa 6: Pelaksanaan Projek -->
@@ -350,7 +399,7 @@
                                             data-bs-placement="right" title="Oktober 2025"></td>
                                         <td style="background-color: #28a745;" data-bs-toggle="tooltip"
                                             data-bs-placement="right" title="November 2025"></td>
-                                        <td style="background-color: #28a745;" data-bs-toggle="tooltip"
+                                        <td style="background-color: #28a745; border-right: 1px solid #dee2e6;" data-bs-toggle="tooltip"
                                             data-bs-placement="right" title="Disember 2025"></td>
                                     </tr>
 
@@ -358,15 +407,15 @@
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">UAT & Laporan</td>
                                         <td colspan="12" style="border: none;"></td>
-                                        <td style="background-color: #fd7e14;" data-bs-toggle="tooltip"
+                                        <td style="background-color: #fd7e14; border-right: 1px solid #dee2e6;" data-bs-toggle="tooltip"
                                             title="Disember 2025"></td>
                                     </tr>
 
                                     <!-- Fasa 8: Projek Selesai -->
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">Projek Selesai</td>
-                                        <td colspan="12" style="border: none;"></td>
-                                        <td style="background-color: #343a40;" data-bs-toggle="tooltip"
+                                        <td colspan="12" style="border-bottom: 1px solid #dee2e6;"></td>
+                                        <td style="background-color: #343a40; border-right: 1px solid #dee2e6; border-bottom: 1px solid #dee2e6;" data-bs-toggle="tooltip"
                                             title="Disember 2025"></td>
                                     </tr>
 
@@ -374,32 +423,38 @@
                             </div>
                         </div>
                         <div class="container mt-3">
-                            <h6 class="text-center mb-2">
-                                CADANGAN JADUAL GARIS MASA PROJEK PEMASANGAN DAN PENAMBAHBAIKAN RANGKAIAN
-                                KESALINGHUBUNGAN WI-FI DI INSTITUSI PENGAJIAN TINGGI AWAM (IPTA) OLEH MCMC DI UiTM
-                                CAWANGAN SARAWAK KAMPUS SAMARAHAN 2
-                            </h6>
+                            <div class="bg-light shadow-sm p-2 mb-3 rounded">
+                                <h5 class="fw-semibold text-center mb-1" style="color: #03244c;">
+                                    CADANGAN PEMASANGAN DAN PENAMBAHBAIKAN RANGKAIAN
+                                    KESALINGHUBUNGAN WI-FI DI INSTITUSI PENGAJIAN TINGGI AWAM (IPTA) OLEH MCMC DI UiTM
+                                    CAWANGAN SARAWAK KAMPUS SAMARAHAN 2
+                                </h5>
+
+                                <h6 class="text-uppercase text-center pt-1 mt-1 mb-0"
+                                    style="letter-spacing: 0.5px; border-top: 2px solid #03244c; color:#1c2833; font-weight: 550; ">
+                                    Cadangan Jadual Garis Masa Projek
+                                </h6>
+                            </div>
                             <div class="table-responsive">
                                 <table class="table table-sm table-striped table-hover"
                                     style="border-collapse: collapse;">
 
                                     <!-- Year Row -->
                                     <tr class="font-weight-bold text-center" style="border: 1px solid #dee2e6;">
-                                        <td
-                                            style="width: 20%; border: 1px solid #dee2e6; border-radius: 10px 0 0 0; background-color: #f8f9fa;">
+                                        <td style="width: 20%; border: 1px solid #dee2e6; background-color: #d6dbdf;">
                                             &nbsp;</td>
                                         <td colspan="12"
-                                            style="border: 1px solid #dee2e6; border-radius: 0 10px 0 0; background-color: #f8f9fa;">
+                                            style="border: 1px solid #dee2e6; background-color: #d6dbdf;">
                                             2025</td>
                                     </tr>
 
                                     <!-- Month Row -->
                                     <tr class="font-weight-bold text-center" style="border: 1px solid #dee2e6;">
-                                        <td style="width: 20%; border: 1px solid #dee2e6; background-color: #f8f9fa;">
+                                        <td style="width: 20%; border: 1px solid #dee2e6; background-color: #d6eaf8">
                                             PHASE</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">MAC</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">APR</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #f8f9fa;">MEI</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">MAC</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">APR</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">MEI</td>
                                     </tr>
 
                                     <!-- Aktiviti Rows -->
@@ -408,70 +463,70 @@
                                         <td style="background-color: #007bff;" data-bs-toggle="tooltip"
                                             title="20/3/2025"></td>
                                         <td></td>
-                                        <td></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
                                     </tr>
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">Technical Session UiTM</td>
                                         <td style="background-color: #6610f2;" data-bs-toggle="tooltip"
                                             title="24/3/2025"></td>
                                         <td></td>
-                                        <td></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
                                     </tr>
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">Technical Approval UiTM</td>
                                         <td style="background-color: #20c997;" data-bs-toggle="tooltip"
                                             title="30/3/2025"></td>
                                         <td></td>
-                                        <td></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
                                     </tr>
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">Site Survey</td>
                                         <td style="background-color: #fd7e14;" data-bs-toggle="tooltip"
                                             title="30/3/2025"></td>
                                         <td></td>
-                                        <td></td>
+                                        <td style="border-right: 1px solid #dee2e6;"></td>
                                     </tr>
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">IW Installation</td>
                                         <td></td>
                                         <td style="background-color: #17a2b8;" data-bs-toggle="tooltip"
                                             title="16/4/2025"></td>
-                                        <td></td>
+                                            <td style="border-right: 1px solid #dee2e6;"></td>
                                     </tr>
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">Servive Commissioning</td>
                                         <td></td>
                                         <td style="background-color: #ffc107;" data-bs-toggle="tooltip"
                                             title="30/4/2025"></td>
-                                        <td></td>
+                                            <td style="border-right: 1px solid #dee2e6;"></td>
                                     </tr>
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">UAT</td>
                                         <td></td>
                                         <td></td>
-                                        <td style="background-color: #dc3545;" data-bs-toggle="tooltip"
-                                            title="1/5/2025"></td>
+                                        <td style="background-color: #dc3545; border-right: 1px solid #dee2e6;"
+                                            data-bs-toggle="tooltip" title="1/5/2025"></td>
                                     </tr>
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">COA</td>
                                         <td></td>
                                         <td></td>
-                                        <td style="background-color: #6f42c1;" data-bs-toggle="tooltip"
-                                            title="9/5/2025"></td>
+                                        <td style="background-color: #6f42c1; border-right: 1px solid #dee2e6;"
+                                            data-bs-toggle="tooltip" title="9/5/2025"></td>
                                     </tr>
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">Handover to Operation</td>
                                         <td></td>
                                         <td></td>
-                                        <td style="background-color: #28a745;" data-bs-toggle="tooltip"
-                                            title="11/5/2025"></td>
+                                        <td style="background-color: #28a745; border-right: 1px solid #dee2e6;"
+                                            data-bs-toggle="tooltip" title="11/5/2025"></td>
                                     </tr>
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">Equipment Installation</td>
                                         <td></td>
                                         <td></td>
-                                        <td style="background-color: #343a40;" data-bs-toggle="tooltip"
-                                            title="30/5/2025"></td>
+                                        <td style="background-color: #343a40; border-right: 1px solid #dee2e6;"
+                                            data-bs-toggle="tooltip" title="30/5/2025"></td>
                                     </tr>
                                 </table>
                             </div>
