@@ -44,7 +44,7 @@
                                     <tr class="font-weight-bold text-center" style="border: 1px solid #dee2e6;">
                                         <td style="width: 20%; border: 1px solid #dee2e6; background-color: #d6dbdf;">
                                             &nbsp;</td>
-                                        <td colspan="6"
+                                        <td colspan="8"
                                             style="border: 1px solid #dee2e6; background-color: #d6dbdf;">2025</td>
                                     </tr>
 
@@ -56,6 +56,8 @@
                                         <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">JUN</td>
                                         <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">JUL</td>
                                         <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">OGOS</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">SEPT</td>
+                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">OKT</td>
                                         <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">NOV</td>
                                     </tr>
 
@@ -66,7 +68,7 @@
                                             title="April 2025"></td>
                                         <td style="background-color: #6c757d;" data-bs-toggle="tooltip"
                                             title="Mei 2025"></td>
-                                        <td colspan="4" style="border: none;"></td>
+                                        <td colspan="6" style="border: none;"></td>
                                     </tr>
 
                                     <tr>
@@ -74,7 +76,7 @@
                                         <td colspan="1" style="border: none;"></td>
                                         <td style="background-color: #e83e8c;" data-bs-toggle="tooltip"
                                             title="Mei 2025"></td>
-                                        <td colspan="4" style="border: none;"></td>
+                                        <td colspan="5" style="border: none;"></td>
                                     </tr>
 
                                     <tr>
@@ -82,7 +84,7 @@
                                         <td colspan="2" style="border: none;"></td>
                                         <td style="background-color: #6610f2;" data-bs-toggle="tooltip"
                                             title="Jun 2025"></td>
-                                        <td colspan="3" style="border: none;"></td>
+                                        <td colspan="5" style="border: none;"></td>
                                     </tr>
 
                                     <tr>
@@ -90,7 +92,7 @@
                                         <td colspan="2" style="border: none;"></td>
                                         <td style="background-color: #20c997;" data-bs-toggle="tooltip"
                                             title="Jun 2025"></td>
-                                        <td colspan="3" style="border: none;"></td>
+                                        <td colspan="5" style="border: none;"></td>
                                     </tr>
 
                                     <tr>
@@ -98,7 +100,7 @@
                                         <td colspan="3" style="border: none;"></td>
                                         <td style="background-color: #fdc107;" data-bs-toggle="tooltip"
                                             title="Julai 2025"></td>
-                                        <td colspan="2" style="border: none;"></td>
+                                        <td colspan="4" style="border: none;"></td>
                                     </tr>
 
                                     <tr>
@@ -109,19 +111,23 @@
                                         <td style="background-color: #198754;" data-bs-toggle="tooltip"
                                             title="Ogos 2025"></td>
                                         <td style="background-color: #198754;" data-bs-toggle="tooltip"
+                                            title="September 2025"></td>
+                                        <td style="background-color: #198754;" data-bs-toggle="tooltip"
+                                            title="Oktober 2025"></td>
+                                        <td style="background-color: #198754;" data-bs-toggle="tooltip"
                                             title="November 2025"></td>
                                     </tr>
 
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">UAT & Laporan</td>
-                                        <td colspan="5" style="border: none;"></td>
+                                        <td colspan="7" style="border: none;"></td>
                                         <td style="background-color: #d63384;" data-bs-toggle="tooltip"
                                             title="November 2025"></td>
                                     </tr>
 
                                     <tr>
                                         <td style="border: 1px solid #dee2e6;">Projek Selesai</td>
-                                        <td colspan="5" style="border-bottom: 1px solid #dee2e6;"></td>
+                                        <td colspan="7" style="border-bottom: 1px solid #dee2e6;"></td>
                                         <td style="background-color: #0d6efd; border-bottom: 1px solid #dee2e6;"
                                             data-bs-toggle="tooltip" title="November 2025"></td>
                                     </tr>
