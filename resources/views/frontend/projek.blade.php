@@ -276,47 +276,36 @@
                                 </h6>
                             </div>
                             <div class="table-responsive">
-                                <table class="table table-sm table-striped table-hover" style="border-collapse: collapse;">
-                                    <!-- Tahun Row -->
-                                    <tr class="font-weight-bold text-center" style="border: 1px solid #dee2e6;">
-                                        <td style="width: 20%; border: 1px solid #dee2e6; background-color: #d6dbdf;">&nbsp;</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6dbdf;">DIS 2024</td>
-                                        <td colspan="8" style="border: 1px solid #dee2e6; background-color: #d6dbdf;">2025</td>
+                                <table class="table table-sm table-striped table-hover"
+                                    style="border-collapse: collapse;">
+                                    <!-- Tahun dan Bulan -->
+                                    <tr class="font-weight-bold text-center">
+                                        <td style="width: 20%; background-color: #d6dbdf;">&nbsp;</td>
+                                        <td style="background-color: #d6dbdf;">DIS 2024</td>
+                                        <td colspan="11" style="background-color: #d6dbdf;">2025</td>
                                     </tr>
-                            
-                                    <!-- Bulan Row -->
-                                    <tr class="font-weight-bold text-center" style="border: 1px solid #d6eaf8">
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">Fasa</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">DIS</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">JAN</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">FEB</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">APR</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">MEI</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">JUN</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">JUL</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">OGOS</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">SEPT</td>
-                                    </tr>
-                            
-                                    <!-- Fasa Rows -->
-                                    <tr>
-                                        <td style="border: 1px solid #dee2e6;">Pelawaan</td>
-                                        <td style="background-color: #007bff;" title="Disember 2024"></td>
-                                        <td style="background-color: #007bff;" title="Januari 2025"></td>
-                                        <td style="background-color: #007bff;" title="Februari 2025"></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
+                                    <tr class="font-weight-bold text-center">
+                                        <td style="background-color: #d6eaf8;">Fasa</td>
+                                        <td style="background-color: #d6eaf8;">DIS</td>
+                                        <td style="background-color: #d6eaf8;">JAN</td>
+                                        <td style="background-color: #d6eaf8;">FEB</td>
+                                        <td style="background-color: #d6eaf8;">MAC</td>
+                                        <td style="background-color: #d6eaf8;">APR</td>
+                                        <td style="background-color: #d6eaf8;">MEI</td>
+                                        <td style="background-color: #d6eaf8;">JUN</td>
+                                        <td style="background-color: #d6eaf8;">JUL</td>
+                                        <td style="background-color: #d6eaf8;">OGOS</td>
+                                        <td style="background-color: #d6eaf8;">SEPT</td>
+                                        <td style="background-color: #d6eaf8;">OKT</td>
                                     </tr>
                                     <tr>
-                                        <td style="border: 1px solid #dee2e6;">Analisa Tender</td>
+                                        <td>Pelawaan</td>
+                                        <td style="background-color: #007bff;"></td>
+                                        <td style="background-color: #007bff;"></td>
+                                        <td style="background-color: #007bff;"></td>
                                         <td></td>
                                         <td></td>
-                                        <td style="background-color: #17a2b8;" title="Februari 2025"></td>
-                                        <td style="background-color: #17a2b8;" title="April 2025"></td>
+                                        <td></td>
                                         <td></td>
                                         <td></td>
                                         <td></td>
@@ -324,11 +313,13 @@
                                         <td></td>
                                     </tr>
                                     <tr>
-                                        <td style="border: 1px solid #dee2e6;">Pengurusan Tawaran & Kontrak</td>
+                                        <td>Analisa Tender</td>
                                         <td></td>
                                         <td></td>
+                                        <td style="background-color: #17a2b8;"></td>
+                                        <td style="background-color: #17a2b8;"></td>
+                                        <td style="background-color: #17a2b8;"></td>
                                         <td></td>
-                                        <td style="background-color: #20c997;" title="April 2025"></td>
                                         <td></td>
                                         <td></td>
                                         <td></td>
@@ -336,68 +327,46 @@
                                         <td></td>
                                     </tr>
                                     <tr>
-                                        <td style="border: 1px solid #dee2e6;">Pesanan Tempatan</td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td style="background-color: #ffc107;" title="Mei 2025"></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
+                                        <td>Pengurusan Tawaran & Kontrak</td>
+                                        <td colspan="5"></td>
+                                        <td style="background-color: #20c997;"></td>
+                                        <td colspan="5"></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Pesanan Tempatan</td>
+                                        <td colspan="5"></td>
+                                        <td style="background-color: #ffc107;"></td>
+                                        <td colspan="5"></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Pentauliahan kepada Syarikat</td>
+                                        <td colspan="5"></td>
+                                        <td style="background-color: #6f42c1;"></td>
+                                        <td colspan="5"></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Kick-off / Pelaksanaan Projek</td>
+                                        <td colspan="6"></td>
+                                        <td style="background-color: #28a745;"></td>
+                                        <td style="background-color: #28a745;"></td>
+                                        <td style="background-color: #28a745;"></td>
+                                        <td style="background-color: #28a745;"></td>
                                         <td></td>
                                     </tr>
                                     <tr>
-                                        <td style="border: 1px solid #dee2e6;">Pentauliahan kepada Syarikat</td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td style="background-color: #6f42c1;" title="Mei 2025"></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
+                                        <td>UAT & Laporan</td>
+                                        <td colspan="9"></td>
+                                        <td style="background-color: #fd7e14;"></td>
                                         <td></td>
                                     </tr>
                                     <tr>
-                                        <td style="border: 1px solid #dee2e6;">Kick-off / Pelaksanaan Projek</td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td style="background-color: #28a745;" title="Mei 2025"></td>
-                                        <td style="background-color: #28a745;" title="Jun 2025"></td>
-                                        <td style="background-color: #28a745;" title="Julai 2025"></td>
-                                        <td style="background-color: #28a745;" title="Ogos 2025"></td>
-                                        <td></td>
-                                    </tr>
-                                    <tr>
-                                        <td style="border: 1px solid #dee2e6;">UAT & Laporan</td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td style="background-color: #fd7e14;" title="September 2025"></td>
-                                    </tr>
-                                    <tr>
-                                        <td style="border: 1px solid #dee2e6;">Projek Selesai</td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td></td>
-                                        <td style="background-color: #343a40;" title="September 2025"></td>
+                                        <td>Projek Selesai</td>
+                                        <td colspan="10"></td>
+                                        <td style="background-color: #343a40;"></td>
                                     </tr>
                                 </table>
                             </div>
-                            
+
                         </div>
                         <div class="container">
                             <div class="bg-light shadow-sm p-2 mb-3 rounded">
@@ -414,104 +383,105 @@
                                 </h6>
                             </div>
                             <div class="table-responsive">
-                                <table class="table table-sm table-striped table-hover" style="border-collapse: collapse;">
-                                    <!-- Tahun Row -->
-                                    <tr class="font-weight-bold text-center" style="border: 1px solid #dee2e6;">
-                                        <td style="width: 20%; border: 1px solid #dee2e6; background-color: #d6dbdf;">&nbsp;</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6dbdf;">2024</td>
-                                        <td colspan="11" style="border: 1px solid #dee2e6; background-color: #d6dbdf;">2025</td>
-                                    </tr>
-                            
-                                    <!-- Bulan Row -->
-                                    <tr class="font-weight-bold text-center" style="border: 1px solid #d6eaf8;">
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">Fasa</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">DIS</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">JAN</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">FEB</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">MAC</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">APR</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">MEI</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">JUN</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">JUL</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">OGOS</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">SEPT</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">OKT</td>
-                                        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">NOV</td>
-                                    </tr>
-                            
-                                    <!-- Fasa 1: Pelawaan -->
-                                    <tr>
-                                        <td style="border: 1px solid #dee2e6;">Pelawaan</td>
-                                        <td style="background-color: #007bff;" title="Disember 2024"></td>
-                                        <td style="background-color: #007bff;" title="Januari 2025"></td>
-                                        <td style="background-color: #007bff;" title="Februari 2025"></td>
-                                        <td colspan="9" style="border: none;"></td>
-                                    </tr>
-                            
-                                    <!-- Fasa 2: Analisa Tender -->
-                                    <tr>
-                                        <td style="border: 1px solid #dee2e6;">Analisa Tender</td>
-                                        <td style="border: none;"></td>
-                                        <td style="border: none;"></td>
-                                        <td style="background-color: #17a2b8;" title="Februari 2025"></td>
-                                        <td style="background-color: #17a2b8;" title="Mac 2025"></td>
-                                        <td style="background-color: #17a2b8;" title="April 2025"></td>
-                                        <td style="background-color: #17a2b8;" title="Mei 2025"></td>
-                                        <td colspan="6" style="border: none;"></td>
-                                    </tr>
-                            
-                                    <!-- Fasa 3: Pengurusan Tawaran & Kontrak -->
-                                    <tr>
-                                        <td style="border: 1px solid #dee2e6;">Pengurusan Tawaran & Kontrak</td>
-                                        <td colspan="6" style="border: none;"></td>
-                                        <td style="background-color: #20c997;" title="Jun 2025"></td>
-                                        <td colspan="5" style="border: none;"></td>
-                                    </tr>
-                            
-                                    <!-- Fasa 4: Pesanan Tempatan -->
-                                    <tr>
-                                        <td style="border: 1px solid #dee2e6;">Pesanan Tempatan</td>
-                                        <td colspan="6" style="border: none;"></td>
-                                        <td style="background-color: #ffc107;" title="Jun 2025"></td>
-                                        <td colspan="5" style="border: none;"></td>
-                                    </tr>
-                            
-                                    <!-- Fasa 5: Pentauliahan kepada Syarikat -->
-                                    <tr>
-                                        <td style="border: 1px solid #dee2e6;">Pentauliahan kepada Syarikat</td>
-                                        <td colspan="7" style="border: none;"></td>
-                                        <td style="background-color: #6f42c1;" title="Julai 2025"></td>
-                                        <td colspan="4" style="border: none;"></td>
-                                    </tr>
-                            
-                                    <!-- Fasa 6: Kick-off / Pelaksanaan Projek -->
-                                    <tr>
-                                        <td style="border: 1px solid #dee2e6;">Kick-off / Pelaksanaan Projek</td>
-                                        <td colspan="7" style="border: none;"></td>
-                                        <td style="background-color: #28a745;" title="Julai 2025"></td>
-                                        <td style="background-color: #28a745;" title="Ogos 2025"></td>
-                                        <td style="background-color: #28a745;" title="September 2025"></td>
-                                        <td style="background-color: #28a745;" title="Oktober 2025"></td>
-                                        <td style="background-color: #28a745;" title="November 2025"></td>
-                                    </tr>
-                            
-                                    <!-- Fasa 7: UAT & Laporan -->
-                                    <tr>
-                                        <td style="border: 1px solid #dee2e6;">UAT & Laporan</td>
-                                        <td colspan="11" style="border: none;"></td>
-                                        <td style="background-color: #fd7e14;" title="November 2025"></td>
-                                    </tr>
-                            
-                                    <!-- Fasa 8: Projek Selesai -->
-                                    <tr>
-                                        <td style="border: 1px solid #dee2e6;">Projek Selesai</td>
-                                        <td colspan="11" style="border: none;"></td>
-                                        <td style="background-color: #343a40;" title="November 2025"></td>
-                                    </tr>
-                                </table>
+<table class="table table-sm table-striped table-hover" style="border-collapse: collapse;">
+    <!-- Baris Tahun -->
+    <tr class="font-weight-bold text-center" style="border: 1px solid #dee2e6;">
+        <td style="width: 20%; border: 1px solid #dee2e6; background-color: #d6dbdf;">&nbsp;</td>
+        <td style="border: 1px solid #dee2e6; background-color: #d6dbdf;">2024</td>
+        <td colspan="10" style="border: 1px solid #dee2e6; background-color: #d6dbdf;">2025</td>
+    </tr>
+
+    <!-- Baris Bulan -->
+    <tr class="font-weight-bold text-center" style="border: 1px solid #d6eaf8;">
+        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">Fasa</td>
+        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">DIS</td>
+        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">JAN</td>
+        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">FEB</td>
+        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">MAC</td>
+        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">APR</td>
+        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">MEI</td>
+        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">JUN</td>
+        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">JUL</td>
+        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">OGOS</td>
+        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">SEPT</td>
+        <td style="border: 1px solid #dee2e6; background-color: #d6eaf8;">OKT</td>
+    </tr>
+
+    <!-- Pelawaan -->
+    <tr>
+        <td style="border: 1px solid #dee2e6;">Pelawaan</td>
+        <td style="background-color: #007bff;"></td>
+        <td style="background-color: #007bff;"></td>
+        <td style="background-color: #007bff;"></td>
+        <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    </tr>
+
+    <!-- Analisa Tender -->
+    <tr>
+        <td style="border: 1px solid #dee2e6;">Analisa Tender</td>
+        <td></td><td></td>
+        <td style="background-color: #17a2b8;"></td>
+        <td style="background-color: #17a2b8;"></td>
+        <td style="background-color: #17a2b8;"></td>
+        <td style="background-color: #17a2b8;"></td>
+        <td></td><td></td><td></td><td></td><td></td>
+    </tr>
+
+    <!-- Pengurusan Tawaran & Kontrak -->
+    <tr>
+        <td style="border: 1px solid #dee2e6;">Pengurusan Tawaran & Kontrak</td>
+        <td colspan="5"></td>
+        <td style="background-color: #20c997;"></td>
+        <td style="background-color: #20c997;"></td>
+        <td colspan="4"></td>
+    </tr>
+
+    <!-- Pesanan Tempatan -->
+    <tr>
+        <td style="border: 1px solid #dee2e6;">Pesanan Tempatan</td>
+        <td colspan="6"></td>
+        <td style="background-color: #ffc107;"></td>
+        <td colspan="4"></td>
+    </tr>
+
+    <!-- Pentauliahan kepada Syarikat -->
+    <tr>
+        <td style="border: 1px solid #dee2e6;">Pentauliahan kepada Syarikat</td>
+        <td colspan="6"></td>
+        <td style="background-color: #6f42c1;"></td>
+        <td colspan="4"></td>
+    </tr>
+
+    <!-- Kick-off / Pelaksanaan Projek -->
+    <tr>
+        <td style="border: 1px solid #dee2e6;">Kick-off / Pelaksanaan Projek</td>
+        <td colspan="6"></td>
+        <td style="background-color: #28a745;"></td>
+        <td style="background-color: #28a745;"></td>
+        <td style="background-color: #28a745;"></td>
+        <td style="background-color: #28a745;"></td>
+        <td></td>
+    </tr>
+
+    <!-- UAT & Laporan -->
+    <tr>
+        <td style="border: 1px solid #dee2e6;">UAT & Laporan</td>
+        <td colspan="9"></td>
+        <td style="background-color: #fd7e14;"></td>
+        <td></td>
+    </tr>
+
+    <!-- Projek Selesai -->
+    <tr>
+        <td style="border: 1px solid #dee2e6;">Projek Selesai</td>
+        <td colspan="10"></td>
+        <td style="background-color: #343a40;"></td>
+    </tr>
+</table>
+
                             </div>
-                            
-                            
+
+
                         </div>
                         <div class="container mt-3">
                             <div class="bg-light shadow-sm p-2 mb-3 rounded">
